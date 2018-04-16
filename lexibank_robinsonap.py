@@ -66,6 +66,8 @@ class Dataset(BaseDataset):
                 in_form = True
 
         with self.cldf as ds:
+            ds.add_sources(self.raw.read('sources.bib'))
+
             # add languages to dataset
             for lang in self.languages:
                 ds.add_language(
@@ -137,13 +139,13 @@ class Dataset(BaseDataset):
                             Language_ID=lang,
                             Parameter_ID=concept,
                             Value=form,
-                            Source='Robinson2012',
+                            Source=['Robinson2012'],
                             Segments=tokens):
                             ds.add_cognate(
                                 lexeme=row,
                                 Cognateset_ID='%s-%s' % (concept, vocabulary[concept][lang]['cogid']),
-                                Cognate_source='Robinson2012',
-                                Alignment_source='List2014e')
+                                Cognate_source=['Robinson2012'],
+                                Alignment_source=['List2014e'])
 
             ds.align_cognates()
 
