@@ -3,11 +3,11 @@ from __future__ import unicode_literals, print_function
 
 from clldutils.path import Path
 from clldutils.text import split_text, strip_brackets
+from clldutils.misc import slug
 
-from clldutils.path import Path
 from pylexibank.dataset import Metadata
 from pylexibank.dataset import Dataset as BaseDataset
-from pylexibank.lingpy_util import getEvoBibAsBibtex
+from pylexibank.util import getEvoBibAsBibtex
 
 import re
 
@@ -71,18 +71,18 @@ class Dataset(BaseDataset):
             # add languages to dataset
             for lang in self.languages:
                 ds.add_language(
-                    ID=lang['NAME'], # will add the 'robinsonap-' prefix
-                    glottocode=lang['GLOTTOCODE'],
-                    name=lang['GLOTTOLOG_NAME'])
+                    ID=lang['NAME'],
+                    Glottocode=lang['GLOTTOCODE'],
+                    Name=lang['GLOTTOLOG_NAME'])
 
             # add concepts to the dataset
             for concept_id in self.conceptlist.concepts:
                 concept = self.conceptlist.concepts[concept_id]
                 ds.add_concept(
-                    ID=concept.english, # will add the prefix
-                    conceptset=concept.concepticon_id,
-                    gloss=concept.english,
-                    concepticon_gloss=concept.concepticon_gloss)
+                    ID=slug(concept.english),
+                    Concepticon_ID=concept.concepticon_id,
+                    Name=concept.english,
+                    Concepticon_Gloss=concept.concepticon_gloss)
 
             # add forms
             for concept in sorted(vocabulary):
@@ -134,18 +134,17 @@ class Dataset(BaseDataset):
                         if form in ['-', '--']:
                             continue
 
-                        tokens = self._tokenizer('IPA', form)
                         for row in ds.add_lexemes(
                             Language_ID=lang,
-                            Parameter_ID=concept,
+                            Parameter_ID=slug(concept),
                             Value=form,
                             Source=['Robinson2012'],
-                            Segments=tokens):
+                        ):
                             ds.add_cognate(
                                 lexeme=row,
-                                Cognateset_ID='%s-%s' % (concept, vocabulary[concept][lang]['cogid']),
-                                Cognate_source=['Robinson2012'],
-                                Alignment_source=['List2014e'])
+                                Cognateset_ID='%s-%s' % (slug(concept), vocabulary[concept][lang]['cogid']),
+                                Source=['Robinson2012'],
+                                Alignment_Source='List2014e')
 
             ds.align_cognates()
 

@@ -1,399 +1,399 @@
-ID,gloss,conceptset,concepticon_gloss
-robinsonap-coralreef,(coral) reef,660,REEF
-robinsonap-12,12,1707,TWELVE
-robinsonap-123,123,,
-robinsonap-13,13,1708,THIRTEEN
-robinsonap-21,21,1734,TWENTY ONE
-robinsonap-angry,angry,1826,ANGRY
-robinsonap-animal,animal,619,ANIMAL
-robinsonap-ant,ant,587,ANT
-robinsonap-arm,arm,1673,ARM
-robinsonap-arrow,arrow,977,ARROW
-robinsonap-ash,ash,646,ASH
-robinsonap-askquestion,ask (question),1309,ASK (INQUIRE)
-robinsonap-axe,axe,677,AXE
-robinsonap-back,back,1291,BACK
-robinsonap-bad,bad,1292,BAD
-robinsonap-bamboo,bamboo,1927,BAMBOO
-robinsonap-banana,banana,868,BANANA
-robinsonap-bark,bark,1204,BARK
-robinsonap-barnstoragehouse,barn/storage house,3025,BARN OR SHED
-robinsonap-bat,bat,1793,BAT
-robinsonap-bean,bean,832,BEAN
-robinsonap-bedbug,bedbug,1949,BEDBUG
-robinsonap-betelnutareca,betel nut/areca,217,BETELNUT
-robinsonap-betelvine,betel vine,177,BETEL PEPPER VINE
-robinsonap-big,big,1202,BIG
-robinsonap-bird,bird,937,BIRD
-robinsonap-bite,bite,1403,BITE
-robinsonap-bitter,bitter,887,BITTER
-robinsonap-black,black,163,BLACK
-robinsonap-blind,blind,1653,BLIND
-robinsonap-blood,blood,946,BLOOD
-robinsonap-blue,blue,837,BLUE
-robinsonap-blunt,blunt,379,BLUNT
-robinsonap-bodyhair,body hair,189,HAIR (BODY)
-robinsonap-bone,bone,1394,BONE
-robinsonap-bow,bow,994,BOW
-robinsonap-branch,branch,1531,BRANCH
-robinsonap-breadfruit,breadfruit,2371,BREADFRUIT
-robinsonap-breast,breast,1402,BREAST
-robinsonap-brideprice,bride price,3024,BRIDE PRICE
-robinsonap-burdenstick,burden stick,,
-robinsonap-burnclearland,burn (clear land),737,LIGHT (IGNITE)
-robinsonap-burnshine,burn/shine,2102,BURN
-robinsonap-butterfly,butterfly,1791,BUTTERFLY
-robinsonap-buy,buy,1869,BUY
-robinsonap-callout,call out,1084,CALL
-robinsonap-canoe,canoe,1970,CANOE
-robinsonap-cassava,cassava,925,CASSAVA
-robinsonap-chaseawayexpel,chase away/expel,30,DISPEL
-robinsonap-chew,chew,321,CHEW
-robinsonap-chewbetel,chew betel,,
-robinsonap-chicken,chicken,1318,CHICKEN
-robinsonap-child,child,2099,CHILD
-robinsonap-chin,chin,1510,CHIN
-robinsonap-choose,choose,1750,CHOOSE
-robinsonap-civetcat,civet cat,3018,NATIVE CAT
-robinsonap-clay,clay,1399,CLAY
-robinsonap-clean,clean,704,CLEAN
-robinsonap-climb,climb,1102,CLIMB
-robinsonap-cloud,cloud,1489,CLOUD
-robinsonap-coconut,coconut,970,COCONUT
-robinsonap-cold,cold,1287,COLD
-robinsonap-coldinfluenza,cold/influenza,102,COMMON COLD (DISEASE)
-robinsonap-comb,comb,1475,COMB
-robinsonap-conjunctivitis,conjunctivitis,3026,CONJUNCTIVITIS
-robinsonap-cookedcorn,cooked corn,3027,COOKED CORN
-robinsonap-cookedrice,cooked rice,1191,COOKED RICE
-robinsonap-coralrock,coral (rock),668,ROCK
-robinsonap-cornmaize,corn/maize,506,MAIZE
-robinsonap-correct,correct,1725,CORRECT (RIGHT)
-robinsonap-crocodile,crocodile,1857,CROCODILE
-robinsonap-dark,dark,706,DARK
-robinsonap-day,day,1225,DAY (NOT NIGHT)
-robinsonap-dayaftertomorrow,day after tomorrow,1179,DAY AFTER TOMORROW
-robinsonap-daybeforeyesterday,day before yesterday,1180,DAY BEFORE YESTERDAY
-robinsonap-deaf,deaf,996,DEAF
-robinsonap-deer,deer,1936,DEER
-robinsonap-dibblestick,dibble stick,,
-robinsonap-diggingstick,digging stick,339,DIGGING STICK
-robinsonap-dirty,dirty,1230,DIRTY
-robinsonap-dog,dog,2009,DOG
-robinsonap-dolphin,dolphin,1479,DOLPHIN
-robinsonap-door,door,1567,DOOR
-robinsonap-dream,dream,2374,DREAM
-robinsonap-dry,dry,1398,DRY
-robinsonap-dryinsun,dry in sun,2015,MAKE DRY
-robinsonap-dustfineearth,dust/fine earth,2,DUST
-robinsonap-ear,ear,1247,EAR
-robinsonap-earth,earth,626,LAND
-robinsonap-earthquake,earthquake,6,EARTHQUAKE
-robinsonap-earthworm,earthworm,2350,EARTHWORM
-robinsonap-egg,egg,744,EGG
-robinsonap-eight,eight,1705,EIGHT
-robinsonap-eleven,eleven,1706,ELEVEN
-robinsonap-empty,empty,1624,EMPTY
-robinsonap-excrement,excrement,675,FAECES (EXCREMENT)
-robinsonap-eye,eye,1248,EYE
-robinsonap-fallfromabove,fall (from above),1280,FALL
-robinsonap-fallover,fall over,2894,TUMBLE (FALL DOWN)
-robinsonap-fat,fat,323,FAT (ORGANIC SUBSTANCE)
-robinsonap-father,father,1217,FATHER
-robinsonap-feather,feather,1201,FEATHER
-robinsonap-feverish,feverish,1847,SICK
-robinsonap-field,field,212,FIELD
-robinsonap-finger,finger,1303,FINGER
-robinsonap-fingernail,fingernail,1258,FINGERNAIL
-robinsonap-fire,fire,221,FIRE
-robinsonap-firewood,firewood,10,FIREWOOD
-robinsonap-fish,fish,227,FISH
-robinsonap-fishtrap,fish trap,389,FISH TRAP
-robinsonap-fishinghook,fishing hook,1074,FISHHOOK
-robinsonap-five,five,493,FIVE
-robinsonap-flat,flat,1633,FLAT
-robinsonap-flea,flea,232,FLEA
-robinsonap-fleshmeat,flesh/meat,2615,FLESH OR MEAT
-robinsonap-float,float,1574,FLOAT
-robinsonap-flower,flower,239,FLOWER
-robinsonap-fly,fly,1441,FLY (MOVE THROUGH AIR)
-robinsonap-flyn,fly (n.),1504,FLY (INSECT)
-robinsonap-foam,foam,1768,FOAM
-robinsonap-fog,fog,249,FOG
-robinsonap-forest,forest,420,FOREST
-robinsonap-four,four,1500,FOUR
-robinsonap-frog,frog,503,FROG
-robinsonap-fruit,fruit,1507,FRUIT
-robinsonap-full,full,1429,FULL
-robinsonap-garden,garden,586,GARDEN
-robinsonap-good,good,1035,GOOD
-robinsonap-grandchild,grandchild,1617,GRANDCHILD
-robinsonap-grandfather,grandfather,1383,GRANDFATHER
-robinsonap-grandmother,grandmother,1496,GRANDMOTHER
-robinsonap-grassbrush,grass/brush,606,GRASS
-robinsonap-grasshopper,grasshopper,607,GRASSHOPPER
-robinsonap-gravel,gravel,3028,GRAVEL
-robinsonap-green,green,1425,GREEN
-robinsonap-grow,grow,479,GROW
-robinsonap-gumtreeeucalyptus,gum tree/eucalyptus,3007,EUCALYPT
-robinsonap-guts,guts,1334,GUTS
-robinsonap-gwang,gwang,,
-robinsonap-hair,hair,1040,HAIR
-robinsonap-head,head,1256,HEAD
-robinsonap-headlice,headlice,310,HEAD LOUSE
-robinsonap-heart,heart,1223,HEART
-robinsonap-heavy,heavy,1210,HEAVY
-robinsonap-heeloffoot,heel of foot,980,HEEL
-robinsonap-help,help,1897,HELP
-robinsonap-hide,hide,2486,HIDE
-robinsonap-hitdrum,hit (drum),111,DRUMMING
-robinsonap-hole,hole,1667,HOLE
-robinsonap-honey,honey,942,HONEY
-robinsonap-horn,horn,1393,HORN (ANATOMY)
-robinsonap-hot,hot,1286,HOT
-robinsonap-house,house,1252,HOUSE
-robinsonap-hungry,hungry,1533,BE HUNGRY
-robinsonap-husband,husband,1200,HUSBAND
-robinsonap-huskedrice,husked rice,926,RICE
-robinsonap-itchy,itchy,149,ITCHY
-robinsonap-jackfruit,jackfruit,2655,JACKFRUIT
-robinsonap-knee,knee,1371,KNEE
-robinsonap-knife,knife,1352,KNIFE
-robinsonap-lake,lake,624,LAKE
-robinsonap-landsoil,land/soil,1228,EARTH (SOIL)
-robinsonap-lazy,lazy,1564,LAZY
-robinsonap-leaf,leaf,628,LEAF
-robinsonap-left,left,244,LEFT
-robinsonap-leg,leg,1297,LEG
-robinsonap-lietelluntruth,lie (tell untruth),601,LIE (MISLEAD)
-robinsonap-liedown,lie down,215,LIE DOWN
-robinsonap-light,light,630,LIGHT (RADIATION)
-robinsonap-lightning,lightning,1654,LIGHTNING
-robinsonap-lime,lime,2540,LIME (MATERIAL)
-robinsonap-lips,lips,478,LIP
-robinsonap-liver,liver,1224,LIVER
-robinsonap-lizard,lizard,632,LIZARD
-robinsonap-long,long,1203,LONG
-robinsonap-lontarpalm,lontar palm,3030,LONTAR PALM
-robinsonap-louseeggs,louse eggs,,
-robinsonap-louseclothing,louse/clothing,1392,LOUSE
-robinsonap-lungs,lungs,688,LUNG
-robinsonap-machete,machete,2680,MACHETE
-robinsonap-man,man,1554,MAN
-robinsonap-mango,mango,2398,MANGO
-robinsonap-marungga,marungga,3031,MORINGA TREE
-robinsonap-mat,mat,195,MAT
-robinsonap-milk,milk,635,MILK
-robinsonap-millet,millet,931,MILLET
-robinsonap-monitorlizard,monitor lizard,3017,MONITOR LIZARD
-robinsonap-moon,moon,1313,MOON
-robinsonap-morning,morning,1339,MORNING
-robinsonap-mosquito,mosquito,1509,MOSQUITO
-robinsonap-mother,mother,1216,MOTHER
-robinsonap-motherlouse,mother louse,,
-robinsonap-mountain,mountain,639,MOUNTAIN
-robinsonap-mouth,mouth,674,MOUTH
-robinsonap-mud,mud,640,MUD
-robinsonap-name,name,1405,NAME
-robinsonap-narrow,narrow,1267,NARROW
-robinsonap-navel,navel,1838,NAVEL
-robinsonap-neck,neck,1333,NECK
-robinsonap-needle,needle,1382,NEEDLE (FOR SEWING)
-robinsonap-newhouse,new (house),1231,NEW
-robinsonap-night,night,1233,NIGHT
-robinsonap-nine,nine,1483,NINE
-robinsonap-nose,nose,1221,NOSE
-robinsonap-oldpeople,old (people),2112,OLD (AGED)
-robinsonap-oldwoman,old woman,907,OLD WOMAN
-robinsonap-oldworn,old/worn,1229,OLD
-robinsonap-oldersibling,older sibling,405,OLDER SIBLING
-robinsonap-one,one,1493,ONE
-robinsonap-onehundred,one hundred,1634,HUNDRED
-robinsonap-onehundredthousand,one hundred thousand,,
-robinsonap-oven,oven,1143,OVEN
-robinsonap-papaya,papaya,2445,PAPAYA
-robinsonap-penis,penis,1222,PENIS
-robinsonap-person,person,683,PERSON
-robinsonap-pig,pig,1337,PIG
-robinsonap-rain,rain,658,RAIN (PRECIPITATION)
-robinsonap-rainbow,rainbow,1733,RAINBOW
-robinsonap-raisedplatform,raised platform,,
-robinsonap-rat,rat,1490,RAT
-robinsonap-rattan,rattan,2497,RATTAN
-robinsonap-red,red,156,RED
-robinsonap-rib,rib,801,RIB
-robinsonap-riceplant,rice plant,2026,RICE PLANT
-robinsonap-ridge,ridge,1748,RIDGE
-robinsonap-right,right,1019,RIGHT
-robinsonap-ringworm,ringworm,51,SORE
-robinsonap-ripe,ripe,178,RIPE
-robinsonap-river,river,666,RIVER
-robinsonap-roadpath,road/path,2457,PATH OR ROAD
-robinsonap-roofthatch,roof thatch,2100,THATCH OR ROOF
-robinsonap-root,root,670,ROOT
-robinsonap-rope,rope,1218,ROPE
-robinsonap-rotten,rotten,1728,ROTTEN
-robinsonap-rough,rough,1923,ROUGH
-robinsonap-rub,rub,1449,RUB
-robinsonap-run,run,1519,RUN
-robinsonap-sago,sago,2270,SAGO
-robinsonap-salt,salt,1274,SALT
-robinsonap-salty,salty,1091,SALTY
-robinsonap-sand,sand,671,SAND
-robinsonap-scabies,scabies,2664,SCAB
-robinsonap-scared,scared,3033,SCARED
-robinsonap-scorpion,scorpion,1538,SCORPION
-robinsonap-scratch,scratch,1436,SCRATCH
-robinsonap-seasaltwater,sea/salt water,1474,SEA
-robinsonap-searchhuntfor,search/hunt for,1468,LOOK FOR
-robinsonap-seed,seed,714,SEED
-robinsonap-sell,sell,1571,SELL
-robinsonap-seven,seven,1704,SEVEN
-robinsonap-sew,sew,1457,SEW
-robinsonap-shark,shark,1110,SHARK
-robinsonap-sharp,sharp,1396,SHARP
-robinsonap-shine,shine,708,SHINE
-robinsonap-shoot,shoot,1172,SHOOT
-robinsonap-shootwithslingshot,shoot with slingshot,,
-robinsonap-short,short,1645,SHORT
-robinsonap-shoulder,shoulder,1482,SHOULDER
-robinsonap-shyashamed,shy/ashamed,487,SHY
-robinsonap-sickpainful,sick/painful,2103,PAINFUL OR SICK
-robinsonap-sit,sit,1416,SIT
-robinsonap-six,six,1703,SIX
-robinsonap-skin,skin,763,SKIN
-robinsonap-sky,sky,1732,SKY
-robinsonap-slave,slave,812,SLAVE
-robinsonap-small,small,1246,SMALL
-robinsonap-smoke,smoke,778,SMOKE (EXHAUST)
-robinsonap-smooth,smooth,1234,SMOOTH
-robinsonap-snake,snake,730,SNAKE
-robinsonap-sorewound,sore/wound,1109,WOUND
-robinsonap-sour,sour,1906,SOUR
-robinsonap-spear,spear,945,SPEAR
-robinsonap-spider,spider,843,SPIDER
-robinsonap-squatcrouch,squat/crouch,296,CROUCH
-robinsonap-squeeze,squeeze,1414,SQUEEZE
-robinsonap-stab,stab,1434,STAB
-robinsonap-stand,stand,1442,STAND
-robinsonap-star,star,1430,STAR
-robinsonap-starfish,starfish,3032,STARFISH
-robinsonap-steal,steal,713,STEAL
-robinsonap-stickpole,stick/pole,1295,STICK
-robinsonap-stomach,stomach,819,STOMACH
-robinsonap-stone,stone,857,STONE
-robinsonap-straight,straight,1404,STRAIGHT
-robinsonap-sugarpalm,sugar palm,3029,SUGAR PALM
-robinsonap-sugarcane,sugarcane,146,SUGAR CANE
-robinsonap-sun,sun,1343,SUN
-robinsonap-sweat,sweat,2458,PERSPIRE OR SWEAT
-robinsonap-sweet,sweet,717,SWEET
-robinsonap-sweetpotato,sweet potato,159,SWEET POTATO
-robinsonap-swell,swell,1573,SWELL
-robinsonap-swim,swim,1439,SWIM
-robinsonap-tail,tail,1220,TAIL
-robinsonap-tall,tall,711,TALL
-robinsonap-taro,taro,351,TARO
-robinsonap-tears,tears,1651,TEAR (OF EYE)
-robinsonap-teeth,teeth,1380,TOOTH
-robinsonap-ten,ten,1515,TEN
-robinsonap-tendon,tendon,1137,TENDON
-robinsonap-testicles,testicles,797,TESTICLES
-robinsonap-thatch,thatch,279,THATCH
-robinsonap-thick,thick,1244,THICK
-robinsonap-thin,thin,2308,THIN
-robinsonap-thirsty,thirsty,847,THIRSTY
-robinsonap-thirty,thirty,1715,THIRTY
-robinsonap-thousand,thousand,1843,THOUSAND
-robinsonap-three,three,492,THREE
-robinsonap-thunder,thunder,1150,THUNDER
-robinsonap-tinea,tinea,1189,ULCER
-robinsonap-tobark,to bark,1206,BARKING
-robinsonap-tobathe,to bathe,138,BATHE
-robinsonap-tobatheachild,to bathe a child,,
-robinsonap-toblow,to blow,176,BLOW (WITH MOUTH)
-robinsonap-tobreathe,to breathe,1407,BREATHE
-robinsonap-tobury,to bury,1719,BURY
-robinsonap-toclose,to close,1046,SHUT
-robinsonap-tocome,to come,1446,COME
-robinsonap-tocook,to cook,1100,COOK (SOMETHING)
-robinsonap-tocount,to count,1420,COUNT
-robinsonap-tocry,to cry,1839,CRY
-robinsonap-tocut,to cut,1432,CUT
-robinsonap-tocutdown,to cut down,355,CUT DOWN
-robinsonap-todance,to dance,1879,DANCE
-robinsonap-todie,to die,1494,DIE
-robinsonap-todig,to dig,1418,DIG
-robinsonap-todivide,to divide,1119,DIVIDE
-robinsonap-todrink,to drink,1401,DRINK
-robinsonap-todrop,to drop,750,DROP
-robinsonap-toeat,to eat,1336,EAT
-robinsonap-tofight,to fight,1423,FIGHT
-robinsonap-toflow,to flow,2003,FLOW
-robinsonap-tofold,to fold,1470,FOLD
-robinsonap-togive,to give,1447,GIVE
-robinsonap-toguard,to guard,1940,GUARD
-robinsonap-tohear,to hear,1408,HEAR
-robinsonap-tohit,to hit,1433,HIT
-robinsonap-tohold,to hold,1448,HOLD
-robinsonap-tohunt,to hunt,1435,HUNT
-robinsonap-tokill,to kill,1417,KILL
-robinsonap-toknow,to know,1410,KNOW (SOMETHING)
-robinsonap-tolaugh,to laugh,1355,LAUGH
-robinsonap-tolive,to live,1422,BE ALIVE
-robinsonap-toopen,to open,1156,OPEN
-robinsonap-toplant1,to plant 1,1541,CULTIVATE
-robinsonap-toplant2,to plant 2,1486,PLANT (SOMETHING)
-robinsonap-toplay,to play,1413,PLAY
-robinsonap-topound,to pound,354,POUND
-robinsonap-topull,to pull,1455,PULL
-robinsonap-topush,to push,1452,PUSH
-robinsonap-tosay,to say,1458,SAY
-robinsonap-tosee,to see,1409,SEE
-robinsonap-tosing,to sing,1261,SING
-robinsonap-tosleep,to sleep,1585,SLEEP
-robinsonap-tosmell,to smell,1586,SMELL (PERCEIVE)
-robinsonap-tospeak,to speak,1623,SPEAK
-robinsonap-tospit,to spit,1440,SPIT
-robinsonap-tosplit,to split,1437,SPLIT
-robinsonap-tosuck,to suck,1421,SUCK
-robinsonap-tothink,to think,2271,THINK
-robinsonap-tothrow,to throw,1456,THROW
-robinsonap-totie,to tie,1917,TIE
-robinsonap-toturn,to turn,1588,TURN
-robinsonap-tovomit,to vomit,1278,VOMIT
-robinsonap-towakesoup,to wake s.o up,,
-robinsonap-towakeup,to wake up,1602,WAKE UP
-robinsonap-towalk,to walk,1443,WALK
-robinsonap-towash,to wash,1453,WASH
-robinsonap-tomorrow,tomorrow,1329,TOMORROW
-robinsonap-tongue,tongue,1205,TONGUE
-robinsonap-traditionalhouse,traditional house,335,MEETING HOUSE
-robinsonap-tree,tree,906,TREE
-robinsonap-turtle,turtle,895,TORTOISE
-robinsonap-turtlesaltwater,turtle (saltwater),112,TURTLE
-robinsonap-twenty,twenty,1710,TWENTY
-robinsonap-twilightdawn,twilight/dawn,729,DAWN
-robinsonap-two,two,1498,TWO
-robinsonap-twohundred,two hundred,2676,TWO HUNDRED
-robinsonap-vagina,vagina,1836,VAGINA
-robinsonap-village,village,930,VILLAGE
-robinsonap-wait,wait,1590,WAIT (FOR)
-robinsonap-waterfresh,water (fresh),948,WATER
-robinsonap-wave,wave,978,WAVE
-robinsonap-wet,wet,1726,WET
-robinsonap-whale,whale,957,WHALE
-robinsonap-white,white,1335,WHITE
-robinsonap-wide,wide,1243,WIDE
-robinsonap-wife,wife,1199,WIFE
-robinsonap-wind,wind,960,WIND
-robinsonap-wing,wing,1257,WING
-robinsonap-wipe,wipe,1454,WIPE
-robinsonap-woman,woman,962,WOMAN
-robinsonap-word,word,1599,WORD
-robinsonap-wrong,wrong,1390,WRONG
-robinsonap-yawn,yawn,1028,YAWN
-robinsonap-yellow,yellow,1424,YELLOW
-robinsonap-yesterday,yesterday,1174,YESTERDAY
-robinsonap-youngpeople,young (people),1207,YOUNG
-robinsonap-youngersibling,younger sibling,427,YOUNGER SIBLING
+ID,Name,Concepticon_ID,Concepticon_Gloss
+coralreef,(coral) reef,660,REEF
+12,12,1707,TWELVE
+123,123,,
+13,13,1708,THIRTEEN
+21,21,1734,TWENTY ONE
+angry,angry,1826,ANGRY
+animal,animal,619,ANIMAL
+ant,ant,587,ANT
+arm,arm,1673,ARM
+arrow,arrow,977,ARROW
+ash,ash,646,ASH
+askquestion,ask (question),1309,ASK (INQUIRE)
+axe,axe,677,AXE
+back,back,1291,BACK
+bad,bad,1292,BAD
+bamboo,bamboo,1927,BAMBOO
+banana,banana,868,BANANA
+bark,bark,1204,BARK
+barnstoragehouse,barn/storage house,3025,BARN OR SHED
+bat,bat,1793,BAT
+bean,bean,832,BEAN
+bedbug,bedbug,1949,BEDBUG
+betelnutareca,betel nut/areca,217,BETELNUT
+betelvine,betel vine,177,BETEL PEPPER VINE
+big,big,1202,BIG
+bird,bird,937,BIRD
+bite,bite,1403,BITE
+bitter,bitter,887,BITTER
+black,black,163,BLACK
+blind,blind,1653,BLIND
+blood,blood,946,BLOOD
+blue,blue,837,BLUE
+blunt,blunt,379,BLUNT
+bodyhair,body hair,189,HAIR (BODY)
+bone,bone,1394,BONE
+bow,bow,994,BOW
+branch,branch,1531,BRANCH
+breadfruit,breadfruit,2371,BREADFRUIT
+breast,breast,1402,BREAST
+brideprice,bride price,3024,BRIDE PRICE
+burdenstick,burden stick,,
+burnclearland,burn (clear land),737,LIGHT (IGNITE)
+burnshine,burn/shine,2102,BURN
+butterfly,butterfly,1791,BUTTERFLY
+buy,buy,1869,BUY
+callout,call out,1084,CALL
+canoe,canoe,1970,CANOE
+cassava,cassava,925,CASSAVA
+chaseawayexpel,chase away/expel,30,DISPEL
+chew,chew,321,CHEW
+chewbetel,chew betel,,
+chicken,chicken,1318,CHICKEN
+child,child,2099,CHILD
+chin,chin,1510,CHIN
+choose,choose,1750,CHOOSE
+civetcat,civet cat,3018,NATIVE CAT
+clay,clay,1399,CLAY
+clean,clean,704,CLEAN
+climb,climb,1102,CLIMB
+cloud,cloud,1489,CLOUD
+coconut,coconut,970,COCONUT
+cold,cold,1287,COLD
+coldinfluenza,cold/influenza,102,COMMON COLD (DISEASE)
+comb,comb,1475,COMB
+conjunctivitis,conjunctivitis,3026,CONJUNCTIVITIS
+cookedcorn,cooked corn,3027,COOKED CORN
+cookedrice,cooked rice,1191,COOKED RICE
+coralrock,coral (rock),668,ROCK
+cornmaize,corn/maize,506,MAIZE
+correct,correct,1725,CORRECT (RIGHT)
+crocodile,crocodile,1857,CROCODILE
+dark,dark,706,DARK
+day,day,1225,DAY (NOT NIGHT)
+dayaftertomorrow,day after tomorrow,1179,DAY AFTER TOMORROW
+daybeforeyesterday,day before yesterday,1180,DAY BEFORE YESTERDAY
+deaf,deaf,996,DEAF
+deer,deer,1936,DEER
+dibblestick,dibble stick,,
+diggingstick,digging stick,339,DIGGING STICK
+dirty,dirty,1230,DIRTY
+dog,dog,2009,DOG
+dolphin,dolphin,1479,DOLPHIN
+door,door,1567,DOOR
+dream,dream,2374,DREAM
+dry,dry,1398,DRY
+dryinsun,dry in sun,2015,MAKE DRY
+dustfineearth,dust/fine earth,2,DUST
+ear,ear,1247,EAR
+earth,earth,626,LAND
+earthquake,earthquake,6,EARTHQUAKE
+earthworm,earthworm,2350,EARTHWORM
+egg,egg,744,EGG
+eight,eight,1705,EIGHT
+eleven,eleven,1706,ELEVEN
+empty,empty,1624,EMPTY
+excrement,excrement,675,FAECES (EXCREMENT)
+eye,eye,1248,EYE
+fallfromabove,fall (from above),1280,FALL
+fallover,fall over,2894,TUMBLE (FALL DOWN)
+fat,fat,323,FAT (ORGANIC SUBSTANCE)
+father,father,1217,FATHER
+feather,feather,1201,FEATHER
+feverish,feverish,1847,SICK
+field,field,212,FIELD
+finger,finger,1303,FINGER
+fingernail,fingernail,1258,FINGERNAIL
+fire,fire,221,FIRE
+firewood,firewood,10,FIREWOOD
+fish,fish,227,FISH
+fishtrap,fish trap,389,FISH TRAP
+fishinghook,fishing hook,1074,FISHHOOK
+five,five,493,FIVE
+flat,flat,1633,FLAT
+flea,flea,232,FLEA
+fleshmeat,flesh/meat,2615,FLESH OR MEAT
+float,float,1574,FLOAT
+flower,flower,239,FLOWER
+fly,fly,1441,FLY (MOVE THROUGH AIR)
+flyn,fly (n.),1504,FLY (INSECT)
+foam,foam,1768,FOAM
+fog,fog,249,FOG
+forest,forest,420,FOREST
+four,four,1500,FOUR
+frog,frog,503,FROG
+fruit,fruit,1507,FRUIT
+full,full,1429,FULL
+garden,garden,586,GARDEN
+good,good,1035,GOOD
+grandchild,grandchild,1617,GRANDCHILD
+grandfather,grandfather,1383,GRANDFATHER
+grandmother,grandmother,1496,GRANDMOTHER
+grassbrush,grass/brush,606,GRASS
+grasshopper,grasshopper,607,GRASSHOPPER
+gravel,gravel,3028,GRAVEL
+green,green,1425,GREEN
+grow,grow,479,GROW
+gumtreeeucalyptus,gum tree/eucalyptus,3007,EUCALYPT
+guts,guts,1334,GUTS
+gwang,gwang,,
+hair,hair,1040,HAIR
+head,head,1256,HEAD
+headlice,headlice,310,HEAD LOUSE
+heart,heart,1223,HEART
+heavy,heavy,1210,HEAVY
+heeloffoot,heel of foot,980,HEEL
+help,help,1897,HELP
+hide,hide,2486,HIDE
+hitdrum,hit (drum),111,DRUMMING
+hole,hole,1667,HOLE
+honey,honey,942,HONEY
+horn,horn,1393,HORN (ANATOMY)
+hot,hot,1286,HOT
+house,house,1252,HOUSE
+hungry,hungry,1533,BE HUNGRY
+husband,husband,1200,HUSBAND
+huskedrice,husked rice,926,RICE
+itchy,itchy,149,ITCHY
+jackfruit,jackfruit,2655,JACKFRUIT
+knee,knee,1371,KNEE
+knife,knife,1352,KNIFE
+lake,lake,624,LAKE
+landsoil,land/soil,1228,EARTH (SOIL)
+lazy,lazy,1564,LAZY
+leaf,leaf,628,LEAF
+left,left,244,LEFT
+leg,leg,1297,LEG
+lietelluntruth,lie (tell untruth),601,LIE (MISLEAD)
+liedown,lie down,215,LIE DOWN
+light,light,630,LIGHT (RADIATION)
+lightning,lightning,1654,LIGHTNING
+lime,lime,2540,LIME (MATERIAL)
+lips,lips,478,LIP
+liver,liver,1224,LIVER
+lizard,lizard,632,LIZARD
+long,long,1203,LONG
+lontarpalm,lontar palm,3030,LONTAR PALM
+louseeggs,louse eggs,,
+louseclothing,louse/clothing,1392,LOUSE
+lungs,lungs,688,LUNG
+machete,machete,2680,MACHETE
+man,man,1554,MAN
+mango,mango,2398,MANGO
+marungga,marungga,3031,MORINGA TREE
+mat,mat,195,MAT
+milk,milk,635,MILK
+millet,millet,931,MILLET
+monitorlizard,monitor lizard,3017,MONITOR LIZARD
+moon,moon,1313,MOON
+morning,morning,1339,MORNING
+mosquito,mosquito,1509,MOSQUITO
+mother,mother,1216,MOTHER
+motherlouse,mother louse,,
+mountain,mountain,639,MOUNTAIN
+mouth,mouth,674,MOUTH
+mud,mud,640,MUD
+name,name,1405,NAME
+narrow,narrow,1267,NARROW
+navel,navel,1838,NAVEL
+neck,neck,1333,NECK
+needle,needle,1382,NEEDLE (FOR SEWING)
+newhouse,new (house),1231,NEW
+night,night,1233,NIGHT
+nine,nine,1483,NINE
+nose,nose,1221,NOSE
+oldpeople,old (people),2112,OLD (AGED)
+oldwoman,old woman,907,OLD WOMAN
+oldworn,old/worn,1229,OLD
+oldersibling,older sibling,405,OLDER SIBLING
+one,one,1493,ONE
+onehundred,one hundred,1634,HUNDRED
+onehundredthousand,one hundred thousand,,
+oven,oven,1143,OVEN
+papaya,papaya,2445,PAPAYA
+penis,penis,1222,PENIS
+person,person,683,PERSON
+pig,pig,1337,PIG
+rain,rain,658,RAIN (PRECIPITATION)
+rainbow,rainbow,1733,RAINBOW
+raisedplatform,raised platform,,
+rat,rat,1490,RAT
+rattan,rattan,2497,RATTAN
+red,red,156,RED
+rib,rib,801,RIB
+riceplant,rice plant,2026,RICE PLANT
+ridge,ridge,1748,RIDGE
+right,right,1019,RIGHT
+ringworm,ringworm,51,SORE
+ripe,ripe,178,RIPE
+river,river,666,RIVER
+roadpath,road/path,2457,PATH OR ROAD
+roofthatch,roof thatch,2100,THATCH OR ROOF
+root,root,670,ROOT
+rope,rope,1218,ROPE
+rotten,rotten,1728,ROTTEN
+rough,rough,1923,ROUGH
+rub,rub,1449,RUB
+run,run,1519,RUN
+sago,sago,2270,SAGO
+salt,salt,1274,SALT
+salty,salty,1091,SALTY
+sand,sand,671,SAND
+scabies,scabies,2664,SCAB
+scared,scared,3033,SCARED
+scorpion,scorpion,1538,SCORPION
+scratch,scratch,1436,SCRATCH
+seasaltwater,sea/salt water,1474,SEA
+searchhuntfor,search/hunt for,1468,LOOK FOR
+seed,seed,714,SEED
+sell,sell,1571,SELL
+seven,seven,1704,SEVEN
+sew,sew,1457,SEW
+shark,shark,1110,SHARK
+sharp,sharp,1396,SHARP
+shine,shine,708,SHINE
+shoot,shoot,1172,SHOOT
+shootwithslingshot,shoot with slingshot,,
+short,short,1645,SHORT
+shoulder,shoulder,1482,SHOULDER
+shyashamed,shy/ashamed,487,SHY
+sickpainful,sick/painful,2103,PAINFUL OR SICK
+sit,sit,1416,SIT
+six,six,1703,SIX
+skin,skin,763,SKIN
+sky,sky,1732,SKY
+slave,slave,812,SLAVE
+small,small,1246,SMALL
+smoke,smoke,778,SMOKE (EXHAUST)
+smooth,smooth,1234,SMOOTH
+snake,snake,730,SNAKE
+sorewound,sore/wound,1109,WOUND
+sour,sour,1906,SOUR
+spear,spear,945,SPEAR
+spider,spider,843,SPIDER
+squatcrouch,squat/crouch,296,CROUCH
+squeeze,squeeze,1414,SQUEEZE
+stab,stab,1434,STAB
+stand,stand,1442,STAND
+star,star,1430,STAR
+starfish,starfish,3032,STARFISH
+steal,steal,713,STEAL
+stickpole,stick/pole,1295,STICK
+stomach,stomach,819,STOMACH
+stone,stone,857,STONE
+straight,straight,1404,STRAIGHT
+sugarpalm,sugar palm,3029,SUGAR PALM
+sugarcane,sugarcane,146,SUGAR CANE
+sun,sun,1343,SUN
+sweat,sweat,2458,PERSPIRE OR SWEAT
+sweet,sweet,717,SWEET
+sweetpotato,sweet potato,159,SWEET POTATO
+swell,swell,1573,SWELL
+swim,swim,1439,SWIM
+tail,tail,1220,TAIL
+tall,tall,711,TALL
+taro,taro,351,TARO
+tears,tears,1651,TEAR (OF EYE)
+teeth,teeth,1380,TOOTH
+ten,ten,1515,TEN
+tendon,tendon,1137,TENDON
+testicles,testicles,797,TESTICLES
+thatch,thatch,279,THATCH
+thick,thick,1244,THICK
+thin,thin,2308,THIN
+thirsty,thirsty,847,THIRSTY
+thirty,thirty,1715,THIRTY
+thousand,thousand,1843,THOUSAND
+three,three,492,THREE
+thunder,thunder,1150,THUNDER
+tinea,tinea,1189,ULCER
+tobark,to bark,1206,BARKING
+tobathe,to bathe,138,BATHE
+tobatheachild,to bathe a child,,
+toblow,to blow,176,BLOW (WITH MOUTH)
+tobreathe,to breathe,1407,BREATHE
+tobury,to bury,1719,BURY
+toclose,to close,1046,SHUT
+tocome,to come,1446,COME
+tocook,to cook,1100,COOK (SOMETHING)
+tocount,to count,1420,COUNT
+tocry,to cry,1839,CRY
+tocut,to cut,1432,CUT
+tocutdown,to cut down,355,CUT DOWN
+todance,to dance,1879,DANCE
+todie,to die,1494,DIE
+todig,to dig,1418,DIG
+todivide,to divide,1119,DIVIDE
+todrink,to drink,1401,DRINK
+todrop,to drop,750,DROP
+toeat,to eat,1336,EAT
+tofight,to fight,1423,FIGHT
+toflow,to flow,2003,FLOW
+tofold,to fold,1470,FOLD
+togive,to give,1447,GIVE
+toguard,to guard,1940,GUARD
+tohear,to hear,1408,HEAR
+tohit,to hit,1433,HIT
+tohold,to hold,1448,HOLD
+tohunt,to hunt,1435,HUNT
+tokill,to kill,1417,KILL
+toknow,to know,1410,KNOW (SOMETHING)
+tolaugh,to laugh,1355,LAUGH
+tolive,to live,1422,BE ALIVE
+toopen,to open,1156,OPEN
+toplant1,to plant 1,1541,CULTIVATE
+toplant2,to plant 2,1486,PLANT (SOMETHING)
+toplay,to play,1413,PLAY
+topound,to pound,354,POUND
+topull,to pull,1455,PULL
+topush,to push,1452,PUSH
+tosay,to say,1458,SAY
+tosee,to see,1409,SEE
+tosing,to sing,1261,SING
+tosleep,to sleep,1585,SLEEP
+tosmell,to smell,1586,SMELL (PERCEIVE)
+tospeak,to speak,1623,SPEAK
+tospit,to spit,1440,SPIT
+tosplit,to split,1437,SPLIT
+tosuck,to suck,1421,SUCK
+tothink,to think,2271,THINK
+tothrow,to throw,1456,THROW
+totie,to tie,1917,TIE
+toturn,to turn,1588,TURN
+tovomit,to vomit,1278,VOMIT
+towakesoup,to wake s.o up,,
+towakeup,to wake up,1602,WAKE UP
+towalk,to walk,1443,WALK
+towash,to wash,1453,WASH
+tomorrow,tomorrow,1329,TOMORROW
+tongue,tongue,1205,TONGUE
+traditionalhouse,traditional house,335,MEETING HOUSE
+tree,tree,906,TREE
+turtle,turtle,895,TORTOISE
+turtlesaltwater,turtle (saltwater),112,TURTLE
+twenty,twenty,1710,TWENTY
+twilightdawn,twilight/dawn,729,DAWN
+two,two,1498,TWO
+twohundred,two hundred,2676,TWO HUNDRED
+vagina,vagina,1836,VAGINA
+village,village,930,VILLAGE
+wait,wait,1590,WAIT (FOR)
+waterfresh,water (fresh),948,WATER
+wave,wave,978,WAVE
+wet,wet,1726,WET
+whale,whale,957,WHALE
+white,white,1335,WHITE
+wide,wide,1243,WIDE
+wife,wife,1199,WIFE
+wind,wind,960,WIND
+wing,wing,1257,WING
+wipe,wipe,1454,WIPE
+woman,woman,962,WOMAN
+word,word,1599,WORD
+wrong,wrong,1390,WRONG
+yawn,yawn,1028,YAWN
+yellow,yellow,1424,YELLOW
+yesterday,yesterday,1174,YESTERDAY
+youngpeople,young (people),1207,YOUNG
+youngersibling,younger sibling,427,YOUNGER SIBLING
