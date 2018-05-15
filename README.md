@@ -6,6 +6,8 @@ Cite the source dataset as
 
 Available online at http://booksandjournals.brillonline.com/content/journals/10.1163/22105832-20120201
 
+Conceptlist in Concepticon: [Robinson-2012-398](http://concepticon.clld.org/contributions/Robinson-2012-398)
+
 ## Notes
 
 Any dataset specific notes on lexibank decisions/mapping choices etc go in here.
@@ -18,8 +20,8 @@ Any dataset specific notes on lexibank decisions/mapping choices etc go in here.
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![LingPy: 92%](https://img.shields.io/badge/LingPy-92%25-green.svg "LingPy: 92%")
-![CLPA: 94%](https://img.shields.io/badge/CLPA-94%25-green.svg "CLPA: 94%")
+![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
+![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 13
 - **Concepts:** 324
@@ -28,5 +30,5 @@ Any dataset specific notes on lexibank decisions/mapping choices etc go in here.
 - **Cognacy:** 2,354 cognates in 645 cognate sets
 - **Invalid lexemes:** 0
 - **Tokens:** 20,828
-- **Segments:** 49 (4 LingPy errors, 3 CLPA errors, 5 CLPA modified)
+- **Segments:** 49 (0 BIPA errors, 0 CTLS sound class errors, 49 CLTS modified)
 - **Inventory size (avg):** 26.92
