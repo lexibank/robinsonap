@@ -1,14 +1,14 @@
-ID,NAME,GLOTTOCODE,GLOTTOLOG_NAME
-1,Tw,teiw1235,Teiwa
-2,Ab,abui1241,Abui
-3,pAP,alor1249,Alor-Pantar
-4,Bl,blag1240,Blagar
-5,Km,kama1365,Kamang
-6,We,wers1238,Wersing
-7,Ke,kaer1234,Kaera
-8,WP,lamm1241,Western Pantar
-9,Ki,kuii1254,Kui
-10,Ad,adan1251,Adang
-11,Sw,sawi1256,Sawila
-12,Nd,nede1245,Nedebang
-13,Kl,kelo1247,Klon
+ID,NAME,GLOTTOCODE,GLOTTOLOG_NAME,ISO
+1,Tw,teiw1235,Teiwa,twe
+2,Ab,abui1241,Abui,abz
+3,pAP,alor1249,Alor-Pantar,
+4,Bl,blag1240,Blagar,beu
+5,Km,kama1365,Kamang,woi
+6,We,wers1238,Wersing,kvw
+7,Ke,kaer1234,Kaera,jka
+8,WP,lamm1241,Western Pantar,lev
+9,Ki,kuii1254,Kui,kvd
+10,Ad,adan1251,Adang,adn
+11,Sw,sawi1256,Sawila,swt
+12,Nd,nede1245,Nedebang,nec
+13,Kl,kelo1247,Klon,kyo
