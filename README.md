@@ -16,7 +16,7 @@ Any dataset specific notes on lexibank decisions/mapping choices etc go in here.
 ## Statistics
 
 
-[![Build Status](https://travis-ci.org/lexibank/robinsonap.svg?branch=master)](https://travis-ci.org/lexibank/robinsonap)
+[![Build Status](https://travis-ci.org/None.svg?branch=master)](https://travis-ci.org/None)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")

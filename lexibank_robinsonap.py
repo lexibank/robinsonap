@@ -69,12 +69,17 @@ class Dataset(BaseDataset):
             ds.add_sources(self.raw.read('sources.bib'))
 
             # add languages to dataset
+            langmap = {}
             for lang in self.languages:
                 ds.add_language(
-                    ID=lang['NAME'],
+                    ID=slug(lang['GLOTTOLOG_NAME']),
                     Glottocode=lang['GLOTTOCODE'],
-                    Name=lang['GLOTTOLOG_NAME'])
-
+                    Name=lang['GLOTTOLOG_NAME'],
+                    Glottolog_Name=lang['GLOTTOLOG_NAME'],
+                    ISO639P3code=lang['ISO']
+                    )
+                langmap[lang['NAME']] = slug(lang['GLOTTOLOG_NAME'])
+            
             # add concepts to the dataset
             for concept_id in self.conceptlist.concepts:
                 concept = self.conceptlist.concepts[concept_id]
@@ -83,7 +88,7 @@ class Dataset(BaseDataset):
                     Concepticon_ID=concept.concepticon_id,
                     Name=concept.english,
                     Concepticon_Gloss=concept.concepticon_gloss)
-
+            
             # add forms
             for concept in sorted(vocabulary):
                 for lang in vocabulary[concept]:
@@ -120,11 +125,11 @@ class Dataset(BaseDataset):
                         # remove multiple spaces, plurs leading&trailing spaces
                         form = re.sub('\s+', ' ', form).strip()
 
-                        # if the stripped form starts and ends with a slash, it is a leftover
-                        # from a transcription, let's clean it (it could be done with the
-                        # orthographic profile, but this could hide errors in parsing
-                        # multiple forms, and in any case this is more adequate as we get
-                        # the correct value)
+                        # if the stripped form starts and ends with a slash, it is a
+                        # leftover from a transcription, let's clean it (it could be
+                        # done with the orthographic profile, but this could hide errors
+                        # in parsing multiple forms, and in any case this is more adequate
+                        # as we get the correct value)
                         if form.startswith('/') and form.endswith('/'):
                             form = form[1:-1]
 
@@ -133,9 +138,10 @@ class Dataset(BaseDataset):
                             continue
                         if form in ['-', '--']:
                             continue
-
+                        
                         for row in ds.add_lexemes(
-                            Language_ID=lang,
+                            Local_ID=lang,
+                            Language_ID=langmap[lang],
                             Parameter_ID=slug(concept),
                             Value=form,
                             Source=['Robinson2012'],
