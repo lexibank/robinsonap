@@ -1,0 +1,408 @@
+Number	English	Tw	Nd	Ke	WP	Bl	Ad	Kl	Ki	Ab	Km	Sw	We	pAP
+1	sky	bulan	hundus	bulung	gunnang	bulaŋ	la:b	buləgɛn	langin	ahalingtama	deling	ayaakani	ayakeng	-
+2	sun	war get	weri	kuwer	was	ved	fEd	mədi	ber	wari	wati	wadi	widí	*wad-i
+3	moon	wur	hula	ur	hi	wuru	hu:l	ʊr	ur	ije	wui	pileaka	urák	*wur
+4	star	yif	ifahoya	ipalaq	hibbe	iid	i:b	ɪb	i bra	fir/fɪr	atoibaai	lawaala	apíkal	-
+5	cloud	menaaf	bunah	bənab	unnas	bənaw	la:b	"teʔeh, bɔntu"	tebes	tabo	wale	sakapulo	sakpul	-
+6	night	iqa'an	ilaqana	iqano	ir patta  (lit 'dark')	kəmalu	dil ?u?u	əkɑn	penen akana	tungtama	titla	iduni	maléng	-
+7	day	war	weri	uwer	"was, ana"	ved	dilElE  lit. 'all day'; /wEd saha/ 'midday' lit. 'hot sun'	mədi	belei	tadeng	watuu	wateeŋ	widí teng	
+8	morning	bees	besi-besi	qanan	mabu	hurak wen	lalami	kunkun	nelebakan	fala:kda   	"wilkang, wilboko"	alikili	widíng le	-
+9	yesterday	miyaag	miyagi	miyag	waddipang	maléŋ	?u:mi	mleng	dona	tuwola	tunsama	apaali	mlénya 	-
+10	day before yesterday	gatraq	gətraku	getraxo	yenarpang	edaŋ áru 	?otariN alumi		atain yok		-		gaténg yoku	
+11	tomorrow	bas	batci	urung	dalla	tobaŋ	dilElE	idil	angan	aˈkun	paisan	lalama	madali	-
+12	day after tomorrow	ti'iraq	gətagu	təraxo	tialaku	tiaŋ aru	a:lu		ayoka	ayoku	-		yal yoku	
+13	"twilight, dawn"	besbes		qanang-qana	mabu	bil jaraʔabuŋ	"lalami (lit, 'early morning')"		sei amai	arii dape	tafeeng		mi widíng le	
+14	wind	qiau	angi	qeuw	dagéng	enar	ha:mi	nəmɛr	segel / ur maran	timoi	sumui	"lapooŋ 'wind', tamuro 'heavy wind'"	lapón	-
+14	wind	qiau	angi	qeuw	dagéng	enar	ha:mi	nəmɛr	segel / ur maran	timoi	sumui	"lapooŋ 'wind', tamuro 'heavy wind'"	lapón	-
+15	rain	xal	ala	ay	hayá	nuwar	nui	unuur	anor	anui	aii	ɑjaa	eiya mai	-
+16	rainbow	taf	sahi	souk	wali pakkung	aliyáʔ	ha?abo?o	adub	ros eil	ho	waangkawaa	karang	suká'	-
+17	thunder	idilan	dalaga	id dugurung	di	lal	harib	medék	galagal	adii damalai dia	karaat	kɑdoorɑŋ	kete	-
+18	lightning	kii	iltama'aw	kii	ir mi'ar	bil məleylak		medék	blekin	ahalai/ahalai hai	deling wobika	mɪlaŋ	meke	-
+19	earthquake	itoyan	ila'ab	itiyoqung	tang abbang	"por ʔotaʔ, təwewer"	tai wE?E	dai	kumé awar	taijoka	komee		komeidai	-
+20	fog	manaaf	buna ituru/ila banaqa	bənab	bunne	bil moró/məró	lowo tawe?EN 'fog just before the rain'	bontui	tabo	tabeki:	safuu	sakapullo	sákapul	
+21	mountain	muug	maga	bukuu	kukka	pondo	bIni	dɔl	dol	buku watika	buk	"potta, ataku-bubuŋ"	atoku bubung	-
+22	ridge				mugang	"pondo blolu (lit., ‘high mountain’)"	tabu?u		dera	watika	mana		atoku bubung	
+23	village	hafan	afang	aban	habbang	ábaŋ	"baN ?Eme (lit., 'old house')"	eben	abán	afɛŋ	mane	manaa	maná'	*haban
+24	land/soil	moxo'	talaka	maxa	mua	butuŋ	fa?ai	məkɛʔ	palak	anai 	arung	ataku	atoku	-
+25	Earth	"iid, por 'island'"	qoka	par	por	por		bulya	bungun	buku	buk		(dunia)	-
+26	hole	ibaaq	yahal	yequ	bau	ilbor	boe	dok	sakola	lukula	sukuu	kadaar	kadár	-
+27	stone	war	wala	war	hauwe	var	fui	wɔr	wor	vi:	woi	wara	wor	*war
+28	water (fresh)	yir	yila	jiir	halia	jar	si	arɑ	eer	ye	ili	iria	irá	*yira
+29	river	bo'oi	balu	boi	kapá	mual	mOl	wɛr	mol	lu (foko)	ili ma’tang	ilu	ilú	-
+30	lake	bənaaq	traqa	"yir mogo, yir wad"	halia	-	Om	ərɑgɪtɪp	eer bal	wa: takata ‘lake that dries out quickly’	-	iria-kawaali	meria'	-
+31	coral (rock)	qoqas	batal	xoqís	katang	mənápa	?o?oi fui	kokah	wor pak	vi: karafi	pusa		wor salár	-
+32	(coral) reef	tumu	qaera		lassang	tómu		muru tomu/mur tom	"tul ('karang darat'), agál ('karang laut')"	karafi	pusa	asingku	salár	-
+33	canoe	xai	he	ei	hai	je	ei	ɛi	ei	pelang	sipii	kaadaŋ	sipír	-
+34	fishing hook	kawil	kawa	kaul	kisi	káwil	ma:ni		yel	haualai	wanee		awíl	
+35	fish trap	ker	car		"sar, pilang"	ker			saai	ˈtere	lokei		knopong	-
+36	sea/salt water	ta'	ta	tam	tawá	taŋ	taN	tan	tan	tama	tama	tama	tamá'	*tam
+37	wave	boof	bova	boob	bo	buat	bobo	bo:b	lamaga	fɔ	-poklaa	galung	ilál	*bob
+38	foam	(ta') qaaw	buy	qaaw	aluá	(taŋ) ul	wara-wara	kul	klar	baˈlaking	kuaa		tamá' kula'	-
+39	forest	wut	miyama	qaqui eres	wappang	bil pusi	bana	ʔɛh	"kop ('hutan'), awotan ('rimba')"	ating	bong sak	adiisiŋ	dum	-
+40	field	hawan bi'in 'flat place'	wuuta gami	"ur wado, ur gom"	bi'ang				lat	rol 	-		oku pedakar	-
+41	garden	"ar wan, maxar"	maxara		"bunni, maggar"	bil	"butu 'garden used several times', dil 'garden used only once', ma?ad 'work in garden'"	tɛr	panen	ˈuti  	milaa	para	pur	-
+42	"road, path"	yitar	yiiya	jugut	ya	via	se?bur	ɛgɛʔ	lak	safoko / safoka telesing	geei	luraŋ	yele	-
+43	machete	peed	peda		pera	peda	sapada	pɛd	peda	kaweni	kine	"piida, saapaada"	pede	
+44	axe	bafal	bamma (also old man)	taaxi	baling	taa	"baliNbo?oboi, baliN 'metal shovel'"	bɛi	pongon	faling	paling	poŋala	polong	*balin
+45	spear	qab	qaba	xabi	kabbi	ʔaba	boko	kəbɑk	kabak	kafak	kapa	susure	susurai	*qaba(k)
+46	burden stick		tiyewang	-	tiawang	-	dopoN 'walking stick'		terewing		-		bong lewared	-
+47	bow	wutan	mata	kumat	hummas	umat	pEhE	peh	pes	peti	mo	moosa	mosu	-
+48	arrow	qafalat	qaviita	qulubit	kabus / upal / bagur	bulít	"aburig, ata:pa 'fire an arrow'"	"kbor, leh"	nalaga	"pulang ‘small arrow’, kaw ‘large arrow’, kafu ‘large arrow’"	wiling	sike	siki	-
+49	knife	si'ar	ciya/siya	"siar, səmering"	sila	tudik	duir (voiceless r)	dʊʊr	dur	lui	sitei	kine	kinai	-
+50	rope	tar	korang	siil	korang	sial	hiwaN	hɑlɑr	sel	ˈtila	kape	kape	kpei'	-
+51	comb	kir	kiri	kir	waring	kiri	?il 'comb for men (made of bamboo)'	kir	kirmei	ˈketi	dasi	keekuri	kai kuri	
+52	mat	bis	bii	bis	bis	bi	bahu	wik	bus	adik	adi	buusi	biti'	*bis
+53	needle	betí	batu	baati	suwe	batul	bátuŋ		kiit	ting	dafee		damu'	
+54	oven	tutax	tutuwala	tutuk	tuttu	tutu	"hE?Ewui, ?a 'wood'"	adagen	sakan	diking	dekang	iniking	diking	-
+55	fire	xar	ar	aad wasing 'firewood'	ra	aad beta	"awai, wai 'to flame'"	ədɑ	ar	ara	ati	ada	adá war	*had(a)
+56	smoke	buun	arabun	aad bənaax	bunna	ad benaŋka	awai bano?o	ədɑbon	ar bonok	ara tika	puna	punaka	adá punak	*bunaq
+57	ash	di'	damang	bəraam	duli	məró ‘fireplace ash’	ma:lu	adur	ar ui	arui	ati yeng koo		ma abu  (ma 'tanah halus')	-
+58	"dust, fine earth"	di' bəraam	malaw	braam	bro	butuŋ boni	malu	ədµr	plak tabon	tabwong	kinii	"butiŋ, abuy"	ma punaka	-
+59	mud	bəlaqas	banaqa	ilisaq	para	butumpret	parah	mul	mul	dakung	faa	duukang	brekeng	-
+60	clay	moxo' ii'	traqa i'i 	maxam moqi	lambota	mekébutuŋ məké	"fa?ai tEnE 'red clay', fa?ai fiu 'pink clay'"		moi	kung	lamangido		lolo ma    (lolo 'lembut')	
+61	gravel	duluwar kriman	"wara knei (lit., stone small)"	dəlour/drour	kera	gənóvar	"fui avai (lit., 'small stones')"		wor kos	vi: bikati	-		wor kas	
+62	sand	ees	iyaasi	weis	si'ir	bey	fEcE?	ɑlɑt	alat	malatai	sinai	ɪnɪŋɪ	ini pak	-
+63	grass/brush	ti'	to	te	alé	nəvel	bana	kəwɪl	blaka	kupe	sak	ikuyila	serí	-
+64	house	yaf	se	ma	bla	haváʔ	baN	əwi	ow	tofa	kadii	araasing	sob	-
+65	traditional house		se adat	"ma xabi (lit, 'spear house')"	kabi	-	hada baN		ow yera	kudang/kadang	almang		panggar sob	
+66	"barn, storage house"	paxan yaf	kokar	kurung	kebang	pánda	EsElE	iwinok	bena	kudang/kadang	almang	yu	ou	-
+67	raised platform	"deek, bala' 'sleeping place'"	ta'aɣecing	deeki	luppu	dey		"liip, trab"	taka	lik	sai	"baasa, line"	kdil	-
+68	door	weeg	walagga	tuuni	waiya	tuni	sa?ar	hek	nabat	lung	lubui	daamat	damát	-
+69	thatch	"(yaf) waai, (yaf) qul 'ridgepole'"	sewaya	magong	wai	vemvey	"de'e 'roof', u-va 'to roof'"	wei	wai	wai	gabuu mang	"gabaara, li"	sob led	*way
+70	roof thatch	man	mang	maan	hasi	meniŋ	"mIn men, uva 'to roof'"	eneːm	amen	file	iwaah	amang	améng	*amen
+71	tree	tei	tei	tei	yattu	te	ti	ətəʔ	atei	ˈbata	bong	mu	bong	*tei
+72	bark	tei kuwei	tei waqa	tei wasi	yattu maki	te úlit	ti ?ui	ɛtɛkʊi	atei kuil	ˈbata kul	aba	yaka	bong klut	
+73	leaf	tei wa'	(tei) wa'a	tei wa	waya	te va	ti bEhE	ɛtɛwɛi	atai det	tala	arita	lakka	bong lak	-
+74	branch	tei getingi	gatani	tei getani	koi	te kəráŋa	ataN	"beh, gtan, kdar, tkam"	gatan	ˈbata takawak 	bong gatang	"pakang, kalooka"	bong gabarang	-
+75	stick/pole	tukar	do	tukur	soru	awa pula	dopoN	doob	dukur	tukorang	teekang	"diikang, saala"	dekeng	-
+76	firewood		ar waci	aad	ra uku	aad dera	a: ta?ata		ar ku	ara	ati		adá wus	
+77	rattan	liyag	korang ('rattan ties' also given for 'rope')	leeg	de	"líya ‘long rattan’, nəvár ‘short rattan’"	lE?	uhul	le	furak	tauu	lawaakar	"lotor (sj. bulat lurus), lawaka (sj. belok)"	-
+78	digging stick		muru		dalia	norúk			psor tekan	ahating	--		atoku tei	-
+79	dibble stick	yax	dada	yag	yaggas	jakat			sulin		--		lala	-
+80	root	hroq	alli	aki	har	te brigiŋ	ali?iN	ərɪk	eir	ai	alii	siripiŋ	sriping	-
+81	fruit	ge yis	ici	tei isi	hissa	te hi	piri	ɪh	up	iti	"uh, ih"	gisi	bong ikó'	*is(i)
+82	seed	ge bag	bagga	guax	uppur	te kulu	awai	mɛm	ku	bika	bilee	inii	ge ikó'	-
+83	flower	qaaw	asamma	qaaw	kawang	te búma		bʊʊm	bungan	kiki	kik	kikileawa	kikilau	-
+84	husked rice	rax	kara	mar	huttang	mood memaŋ	a:la	ərɑk	arak deter	ajak	aa beita	arakees	arák es	
+85	cooked rice	qar	qara	"naqar, naxaro"	huttang dala	naliyaŋ	"a:la meje (lit., 'table rice')"	ərɑkmɑi	arak ma	ajak ma:	aa maa	araka ma	arák mad	*araq
+86	rice plant	qar xasga	karra aci ga	mar (uwasiwang)	halla	mood	a:la		arak	ajak 	aa		arák	
+87	to plant 1	midan	muddi		midding	mudiŋ	mudiN 'plant smth. like a tree that takes many years to grow 	mdin	atako medi	murow 	mit	mading	mdi	*mudi-n
+88	to plant 2	itap	"tappa 'plant, pound rice, stab'"	tap 'to pound'	tappang 'to stab'	tapa 'to pound	ta:pang 'to pound'	tek	tapai 'to stab'	tapei 'to pound'	tafe	taan	ta	*tapai 'pierce'
+89	"betel nut, areca"	bui	buya	bui	bu	bu	bu:	bʊiʔɪh	bui	fu	bakaa	pu	pui	*bui
+90	betel vine	meet	matta	maat	meta	maat	mece	mɛh	mesín	ˈmeting	maisi	maasi	mas	*mait
+91	lime	xor	wa (also 'mother')	awar	hauwe	avar	a:wi	əwɛr	oor	awai	awoi		or	*hawar
+92	chew betel	bui si	mata siya	maat si	meta na	maat haa	nahaN	ɪlhɑn	bui sai	fu take  (metathesis)	bakaa aa	pu paati	pui mas tapasi	
+93	sweet potato	bətangqar	keingkuka	kukasi	maloko mar	u kasi	falaj	kɛsəl	ai lak	bale	buleel	"yaamu, salu, kuku"	ai lek	-
+94	cassava	tei qar	tei xara	bengkuk	wesarani	u belanda	outi	ətɛko	btako	batako	bongko	yaamu salu	bong kau	-
+95	taro	nei	itaaba	nei	olu	awgol	ma:lu	lɛɛ	banei	aho 	makai	alaata	pne	-
+96	sago				do	-		kɑmroin	kameringan		--		kdesi	-
+97	millet	naat		naat	kalake	nuwát	ta:ri		ser manaka	kala	lasu		bulá'	-
+98	sugarcane	wux	uufa	uub	habua	wub	so:b	aba	uub	fa	kamaa		upá	*u:b
+99	corn/maize	batar	baata	batar	batte	bátar	bati?	bat	batar	fati	patei	patar	petér	*batar
+100	cooked corn	batar yib	batupi	batar ipi	baubau	batar pi	bati awai		batar up	fa ma	patei maa		potori	
+101	coconut	wat	wata	waat	hatua	vet	fa?	ǝta	bat	ˈwata	wate	wata	watá'	*wat
+102	gwang	duwai	angwa'a (wa'a 'leaf')	kunubu	hakke	kədúbuk		tok yar	akal yera		lumel		kuwak	-
+103	lontar palm	xaiqual	awa'a (wa'a 'leaf')	"ai qoli, tox 'palm wine'"	tua	koli	"?E?ui, nou 'palm sugar, used for tuak and brooms'"	tok yar	tuuk yera		--		toko bong	-
+104	sugar palm				nau	bur			nau yera	tuok	toka			-
+105	marungga	quud	salla	matoling/matolung	kuri	təmóluŋ	motoN	kokol	kakol	matoling	koo wutong		kolteng bong	*matoling
+106	gum tree/eucalyptus	pal	paala	paal	pu	puu	pu	nih	pokoil	puokdai	"foo, taa"	waa		*pu
+107	bamboo	"goxol, ixir, petan, piat, ya'"		petung	mali	"petuŋ ‘large wild bamboo’, mári ‘smooth wild bamboo’, petuŋ vandaŋ ‘domestic bamboo’"	pitung	"dumar, kkak, peet, tuk, ulu, "	pitan	mai	"maai, toon"	"sibeang, sumu, "	(beting)	*mari
+108	banana	moxoi	may	mogoi	maggi	mool	mo?oi	mɔgɔl	nawol	mosa	mooi	maˑkɑ	mulúl   (mulula)	*mogol
+109	mango	wow	wowa	wow	bes	"biyát ‘wild mango’, mampleʔ ‘domestic mango’"	be	"mogoi, mogoi al"	mampalel	maija	wae	pisi	pis	-
+110	papaya	kasi	katela	kasí	kattelu	kási	kahatElE	atemol	matakel	batamia	bongmooi	bile	bilkai	-
+111	jackfruit	nak	qaerang	naka	kawerang	naŋka	toN	aton	nangka	song /sõ	ton			*ton
+112	breadfruit	kular	kulu	kunur	"kili, tong"	undur	tombai	aton atek	"kulur,  amúr"	song 	kut ton		lapori	-
+113	bean	kaas	"nakaahu, traakahu 'peanut'"	taau	lai	"tool (general term), tool butuŋ ‘peanut’, kaa ‘mung bean’"	?utuN	"ut, keh"	utan	"takoi ‘large bean’, luong ‘small bean’, nai ‘ko.bean’"	taaui		kasu	-
+114	honey	ta'an yir	to'ong wangi	taaun yir	wani	toon jar	"wain si (lit, bee water)"	wain 'bee'	narowon eer	nawang	laawang ila	iru 'bee'	dring tok	-
+115	milk	ham	"aami (cf., gayami 'breast')"	tuu	hang	haam jar	to?	dʊʊt	su	tik	ami iduka	gaami	amira	
+116	salt	yisar	yeesi	isar	hissi	siah	taN hiri	əhir	ser	ati	asii	asiir	asír	*asir
+117	fat 	tama'	qoata	"qaau, -tema"	kawata	təmá	tamara	təmɑd	tamá	tamada	bulaka	dumu	gesime'	*tama
+118	"flesh, meat"	kok	bo'o	umung	"ke'e, dama'a"	dagiŋ hii	hiri	məhɛl	is	mahiting	isei	isi	geis	-
+119	bone	kir	kili	kiri/giri	ke'e	ʔe irá	talopo	tərop	taropa	hetaipa	sel	sara	geséri	-
+120	rib	ga'an pa'as	siddang	paas	parisi	abál ira	abEti	"dget, pih"	dagatar taropa	kaˈfata  bata	kapaata	baasara	gabáseri	-
+121	sweat	hasir	uusi	turugung/trugung	sissi	truuŋ	latutuN	ang	surun	tamuring	susui	punara	punera	-
+122	tears	get qar	gatugu	teet low	hanau	"teŋ jar (lit., ‘eye water’), teŋ now"	?ENui		ten na	tieng nau	teng ila		ginira	
+123	blood	wei	we	wee	wai	"eve, ve"	fi:	wɛʔ	we	we	wee	wii	wei	*wai
+124	tendon	traw	tarro	turui	har	urát			eir	teai	alii		sriping	-
+125	heart	uuk	-axoya	-axai	hatuaki	kubaŋ	damulu	ətɑkʊb	ta-bat kublai	tebikamang	bukamang	gikoomaŋ	geukabang	-
+126	liver	guuk	gammi-gammi (insides?)	tilil	ume	elila	om	nəbʊr	damor	tomi	--	gidamara	gedamuring	-
+127	guts	gruxui kriman	nususu	diyaq	tas ara	avar pula	atohi	gɛh	te is	tatebak	kaapung	gitu	atoko marúng	-
+128	excrement	xas			has	aas	haha?	ǝhi	es	asi	asi	ɑtʊ	atú	*has
+129	lungs	gaxai	puiy vata		alua	buráŋ	aladiN		ta-kalé	teboboti	fusaa	saalara	gesalar	-
+130	stomach	gato'	goto'o	tətoki/tatoki	nas	tətow	atu?u	gəbɛt	ta-beter	-took	-tok	gapaŋ	atoko	*-tok
+131	head	go'onqul	gungkotang	toong(kul)	na'ung ki	tooŋ	loN	"kədɛh, nɛttu"	ta-potur	tiakai	-filing	"gatakka, tɑkɑ"	lokomang	-
+132	hair	go'on wa'	gungwa'a	toongwa	mayang	toŋ va	hari ?inEmEN	kərɪd	ta-kal	tiakai bata	-ng kula	gatakka lakka	neimbat lak	
+133	body hair	mud	muddi	"mudu' 'body hair, fur, feather'"	mayang	pimudi	muj	amudj 	ta-bota	amuri	labuta	madi	(ne)mudi	*mudi
+134	eye	tet baag	"gatabaga, natabaga"	"teet gwaq, teet mudu' 'eyelash'"	naiti	teŋkulu	?ENwai	gɛɛn	t-en	tieng bika	-ng	ganiiri	ninirko	-
+135	ear	-uwar wa'	gowwa'a	tuwar wa	nauwe	təveli	awEbEhE	gəwɛr	ta-wel	tawei	-wai	wari	neweri lak	*-uar-i
+136	nose	gəfimbui	gafini	timim	namma	təmiŋbur	aimbui	gəmoin	te-min	taminfa	-lpang	gamiŋi	nemuing	*-mim
+137	mouth	gaa'	gayaqa	tua	nai	taibor	?ata	gɑd	to-wa	tawa	-waa	gayiiri	nebir	-
+138	chin	gaaw	gawala	tua somoi	nawar	təvá	arowaha	gad yar	to-wa basin	tawa bak	-waa buk	wakooya	newakat	*-wa
+139	lips	ger tuban	gayaq tubung	tua tupa'	nelas	tibál/ tivál	tEm tEporo	gətəbod	ta-rip so	tawa kul	-waa baka	gapiini	nebir klut	-
+140	teeth	gusan	gusing	tua sing	nawasing	təvéŋ	na-wEhEN	gəwɛh	ta-wes	taweiti	-weh	gawa	newesi	*-uasi(n)
+141	tongue	gelivi	gəlefu	taleeb	nalebu	tejebur	"talEb, nalEb"	gəlɛb	ta-liber	taleifi	-opui	galimpuru	neyebur	*-leb
+142	neck	gəməgoqai	gefikiri	tatax	"neba, nai hule"	təméŋʔera	dolo	dohəlɑ	wot plok	terola/rola	-mang	gamaŋ	nemeing	-
+143	shoulder	gədiya'	gasial	tabagat	namakar	təbít	?abEli	nɪkɛbɛl	ga-wor	tabal	-wakai	kaalɑ	nebarang	-
+144	arm	gətan	gatang	tatang	nattang	tataŋ	nataN	gtan	ta-tan	tatang	-tang	gataŋ	neteng	*-tang
+145	finger	gətang qi	gatang uppi	tatang tupa'	nattang si'a	tataŋ tubá	nataN pa?a		(tatan) pak	tatang paka	-tang kilei		(neteng) kilasi	
+146	fingernail	gətang quxas	gatang kucing	tatang kusing	nattang kusi	tataŋ krusiŋ	?ataN uhuN	gətɑnkuh	(tatan) kusin	tatang kusing	kuising	gataŋ kurisi	(neteng) kurusi	*kusin
+147	breast	gəxam	"gayami (cf., aami 'milk')"	tuu	nai hang	a:m	to? 	dʊʊt	ta-su	taraihiang	ami	gaami	ami	*ham-i
+148	navel	gor to'oi	grufi	totay	nito'e	təpuar	?apoy?EN	təpʊhəgɛn	ta-buk	tabik	-bu	gikubiila	kubu	-
+149	penis	fi			"ge lupi, ge dukang"	tal		to	ta-pol	pal	-fui	waala	wala	-
+150	vagina	taar			ge hissa	ar		aar	ar	oy	-ai	-la	telesiko	*-ar
+151	testicles				ge bola	toto kulu		to adang	ta-tako				kalingko	-
+152	leg	gəfat	gaya	tabat	nauta	tijá	nE?Ew	gətɑk	ta-tuk	tetuku	-wa	gikuli	newaka	-
+153	heel of foot	bai gəfin	gaya begevini	tabat bey gimim	nauta bai gamma	tija omol	?Ewada		tei get	hijak folang	-wa pee galpang		peigemuingkdorang	
+154	knee	gəfat kuu	gay uku	tabat uku	ukkang	tijá kuku	"?E pElini, ?ewudu"	gɛiuk	tei luk tuk	taˈbabuk	-subu	gataasuruku	nesesebuk	*uku
+155	back	siif	nagua	tewaring	naing wiri	təmota era	?haN mai	gɛhɑk	ta-kabát	teui	imota	"gatiiŋ, gamuwi"	sap kor	-
+156	skin	kuwei	ge'ing waka	koi	naing killi	piʔulit	?ui	kʊi	ta-kuil	kul	fasuu	giyaka	klut	-
+157	"sore, wound"	jifat	batta	"ibat, bato"	bas	"báta ‘old wound’, íbat ‘new wound’"	bamed	abad	bata	namu	lamu	karupo	leboli	-
+158	ringworm	saxai	katu	qaat	"kattur, brai"		ot		lukur	kaˈfising			lilir	-
+159	scabies				bai kattur	koot	at	kas	nal	kaˈfising	bila basong			-
+160	tinea	gaal	manu	kus bani	ai nassi	mənáw	palaN		yermanema	kafising	bila-bila		pui mnuming	-
+161	feverish	qamudi	talaqo	qomodi	dagga	viviriŋ	taso?o	gebir	senam	kamura		-maaku	nailbub	-
+162	conjunctivitis				ka'ang	tembrak			ten kei	ˈbeki	kalenta		kibir	-
+163	"cold, influenza"	qur kal	(kali) besima	sow	kuka	təmiŋ omi pi	hu:?	kai 'cough'	maneber	pasing			dudung asiding	-
+164	person	uyaq	wa'ang	uyaxo'	aname	neenu	na:mi	ɑnɪnok	aninou	"ama, amakang ‘human being’"	alma	"aniŋ, aniŋkaaŋ"	aning	-
+165	name	yid	geynu	teeni	ninnu	tene	?aniN	gənɛʔ	t-enei	tane	-nei	gani	adeing (tedeing)	*-ain
+166	child	goqai	guaqa	tuaq	wakke	toál	?ei	ʊl	ol	"moku, ne-wi ‘my child’"	dum	gamaddu	ol	"*-uaqal, *ol"
+167	man	masar	mawafe'i	masik waal	ammu	meyal	loti	omkənɛ	nen	"nẽ, neng"	lami	"imyaala, imyaalara"	lmi	-
+168	woman	eqar	alaqama	umoq waal	eu	jaul	obo?	okənɛ	mei	majuo	male	"yaalara, yaala"	mei	-
+169	husband	gəmisi	ganni	gemasik	naimu	teniŋ	noloti	om	anén	heneng	lami	ganaamu	ne lemi	
+170	wife	gemaq	gagu	geumuq	"naru, nai manne"	piprá	no?obo?	ɣɣl	améi	hemajuo	male	gayo	ne mei	
+171	mother	gaxala'	"hoa (my mother), goa (his/her mother)"	now	niu	nivá	niwi	noi	na-na	"hea ‘his/her mother’, nia ‘my mother’"	-ouko	giya	nea	-
+172	father	goma	nabamma	namam	niar	nimaŋ	nimiN	nɪmɑn	na-ma	mama	-paa	gipa	nepa	*-mam
+173	older sibling	gəmutu	"nenang, gənang"	nekaw 'same sex sibling'	"nikkar (man's bro), ni'e (women's bro)"	netatá	no?udiN ?obo 'sister'	ʊlom	bakan	nana	idama	naana	nenang (nang 'sulung)	*nan(a)
+174	younger sibling	gə'ik	"neywei, nənay"	nedik 'opposite sex sibling'	niaku (same sex)	nekáw	no?udiN loti 'brother'	ʊlɪk	ika	"henaha, nenaha"	idika	kaaku	nekaku (kaku 'bungsu')	*kaku
+175	grandmother	gerta'	gətaya	naraat	kuba	nidat	bapa	-doqol	na-ta mei	nekuta	tam	gitaama	netamu mei	-
+176	grandfather	gerta' (mesar)	bamala	naraat	wenang	nidat	bapa	-doqom	na-ta	netung	tam		netamu lemi	
+177	grandchild	graat qai	gətaya (goaqa)	nagaraat xai	nammis	toal tidat	da?ala	dɑt	na-yol 	ne-rakbeka	dum tam	gataamu	gesir gemai	-
+178	bride price	go'oy	ga'a	gay	gu'e	ebəlí	hada	am	tael-taam	"hébel, nébel"	faal		alikir	-
+179	slave	uy gusoygusoy waal	wa'an gititi	jonggos	kola	oho gaiŋ		məlɛi	"gur ('laki-laki'), mará ('perempuan')"	maija	maai	gamaddu	melai	-
+180	animal				"ba'a 'young animal', lappang 'old animal'"	naʔwal		keek 'male animal'	gor gewel	bilel 'young animal'	isei		pei kutu / bina'at	-
+181	dog	yifar	bar	ibar	yabbe	jabar	bEl	kʊr	kur	kai	kui	katu	kutuwal	-
+182	pig	bai	bei	bey	bai	be	bi	beeʔ	bei	fe	pee	pi	pei	*bai
+183	chicken	saxa	deyan	siaq	suake	haŋi	hiu	hi	sei	ruo	sube	sɛ	sekok	-
+184	rat	dur	dur	dur	di	duru	du:l	dʊr	dur	rui	tui	daru	durki	*dur
+185	lizard	takok	takaraab	tek	takke	teké	teko		takók	tekok	takkee		peko	
+186	civet cat	xraw	"alísi (cf., lísi 'crocodile, monitor lizard')"	orow	lau	ró	"alumanEmE (lit, 'good smelling deer')"	aru'	aruk	ayo	laku	aruwaaka	luku	*haraw
+187	deer	ruus	raci	rusi	"lus, waraka"	ruíŋ	a:lu		arus	ajuti	auuh		arus pei	
+188	frog	mauqubar		mau xubar	halia maro'o	motó	upapaʔ	eipek	ek tamudak	jakorakora	takabau	werpaak	ol tuktuk (worded 'sj. katak besar)	-
+189	bat	mədi	marra	merei	"kalór, madde"	demél		mdel	madél	mare	matei	madi:ku	muduk	*madel
+190	tail	goor	gola	gor	geku	orá	olo?	gorəkɛi	gor	haˈwai (also ‘to return something’)	-wui	giwoora	wori	*-or(a)
+191	fish	xaf	aafi	ab	hap	aab	a:b	əbi	eb	afu	api	api	api	*hab
+192	shark	sifar	sifi	sibar	sibbu	hibír	tabɛi	be’ebi	sobór	kasuwai	anee		molos	-
+193	whale	isaperan	sifi		perung	kəláru	"usaha, perunsah"	be’ebi	nyoung	kasuwai	anee		anai	-
+194	dolphin	"bai xaf (lit., 'big fish')"	paaru	xalaaru	laurlaga	kuja	"usaha, perunsah"	be’ebi	sisipil	kasuwai	anee		akoling anai	
+195	crocodile	baxai	lísi	bagay	bagai	bápa	ba?ai	bəgɑi	buai	fahai	piee	waawa	wawa	*bagai
+196	monitor lizard	xaris	lísi	iris	hiddis	ri	?alEhE?	wreh	ros	liti	wulet		roti	*haris
+197	starfish		yiva koya tagami	-		-			tan ibra		--		temá laling	-
+198	turtle	yer kua	yalaw	yirko	yiakau	jar obó		yeko	dawan	youko	yokee	iruwaaka	urak	-
+199	turtle (saltwater)				momang	jar obó			dawan	youko	--		urak	
+200	bird	dei	daya	duum	re	wuul	hiu walEwEN	hɪʔɪdom	adol	ruo haling tama	atoi	adala	adol gateng kurusi ('cakar burung')	*(a)dol
+201	wing	getar	gata'a	guat	gaddur	abát	awitiN	gɑmbɑl	gabakar	haˈbakai	-pata		bebitir	-
+202	feather	mud	muddi (also 'body hair')		kur	wuul mudi	hiu wolo (folo)	wərɛk	adol rok	ruo habakai	labuta	madi	adol mudi	
+203	horn	gedexun	gəriang	gumuk	garige	omú	?amu?u	gəmʊk	gamuk	haˈmuk	-muu		gebukur	*-muk
+204	snake	daam	daama	damung	duang	dumiŋ	mon	mɔɔn	mon	mon	kume	sipeali	munu	-
+205	scorpion	par	goldaka (also 'shark'??)	par	par	per	pay	par	per	pei	fal		perbuk	*pVr
+206	egg	gətov	(siyaqa) gatay	gotoqi	riaku	eʔdua	(hiu) do	ədɑŋ	ro	ruo bira	-waa	waala	soal	-
+207	earthworm	otar	tunigasi	dungkalaing	arati	duka(ŋ)laliŋ	i:b 'worm'	dəlɪkwɛi	i palá	anei takoi	asingkuai	kispaak	kespak	-
+208	butterfly	waxa	qaxa'o	qoqo	laubbar	kaililiŋ	popou	wǝlér	tamakowa	kupak	kupaita	takokopaala	bemberlak	-
+209	fly (n.)	ufar	yiifu	ubar	hibbi	vavar	liboN	blel	yoboi	fungfai	bilewei	liwar	buler	-
+210	mosquito	"kiin, ki'in"	kimbalu	king	hissing	kinit	?in	ikin	kin	kuima	afising	kaweeŋ	kubung	-
+211	ant	tarexen	mur	iriking	karé	kəré	"lE?iliN 'small red ant, iliwei 'large black ant' "	"iqilin (small), nbut, nkab (big red), nrik (smallest), unanawai (large black)"	butur	fikei	kakising	"klanglangur (small black quick), sakiila"	kusing	-
+212	grasshopper	ow	o	ow	au	kabét	ha:nu	tkeet	sokman	tunui	be	akiki (locust)	betkol	-
+213	spider	bangkow (bangkop??)	qaxava	kakaranga	kar labbang	kəráŋa	?alEN	nwak	takal malai	bala-bala	"karokaa, taapkirii"	"tangkibeang (small), bubunik (large)"	tangkabeber      (buinunuk)	-
+214	headlice	ku'aan	kung	kuwang	kar kassi	kubaŋ	?ony	əkoin	kon	bikiang	bini	inaaŋ	unang	-
+215	louse eggs	xarin	ring	iring	lidding	delíŋ	fadin	akuinj ge adang	kon ro	bikiang tulung	bini waa		unang gea	-
+216	mother louse								kon	bikiang hea	--		kutu unang	
+217	flea	xat	bar beg		"sippe, katí"	təméla	bEl ?utu	akuinj ge adang	kur kot	tukota	sikoo		toko'	-
+218	"louse, clothing"	o'	eggah	uwa'	ai	bee	nElE	or	patai	be	sikoo			-
+219	bedbug	may	maya	temek	maddu	temé			e	"tameak, ne-tameak"	lawa		mekit	*temek
+220	bite 	si	cia	sii	gassi	gaki	(bEl) ?ihi	gɛh	(kur) ges	take	-eh	gapaati	mikik / gadipasi	*asi
+221	to bark 	goxo'	toy	toga'	lau	veŋloti	lowo?		(kur) lungun	lou	auu	lu	aloi	*lVV
+222	to hunt	gətiyar	ilaafi	ira'po	ala gallang	(veŋ)sow	arlili	kɔɔr	peteri	"(kai) hatang, ha-tang"	-oi		milakal	-
+223	shoot	pedil	gali	masang	bloppa	tápa		mɑh	gaboit	ha-tek	-tfa	"taani, wusi"	legetaing	
+224	shoot with slingshot	gəfakat	pasaqqo	gapakis	pasakkung	kartapel			gaboit	"ha-tek, na-tek"	-tfa		katapel wong legataing	-
+225	to hit	gəwa'	bugi	kuupo	gakkang	meaŋ	bihi?	kob	bles	"bol, ne-bol ‘hit me’"	bona	"woo, gapunni"	gepoing	-
+226	to pound	təmuduk	saadu	tapo'	tappang	tápa	ta:paN	tpan	gatumba	tape	wotafe		"tumu ('berkelahi'), arak ta ('tumbuk padi')"	*tap(a)
+227	hit (drum)	"(pa'an) bah 'hit (drum), (bui) tag 'hit (long drum), (goon) bah 'hit (gong)', puah 'drum stick'"	tufi (geeta) (geeta 'long drum')	gedengar	(bi) taggang	(na) oda	Od	pedeng kup	(padangin) gor	padang huwor	wota		wodo	-
+228	to kill	gafar	gafala	gabar	gaddi hinna	"teŋ meaŋ mina (lit., ‘person hit die’)"	amini? (CAUS-die)	gəbɛr	gabarin	"faheng, ne-faheng"	paan	gapi garammu	gepai gapang	-
+229	to live	bangan	banga	waat	awa	beta	wEcEN	iɛs	on noka	na-re ‘I live’	-ng kang	ganiiri keana	genirkang	-
+230	to breathe	xaqa'	ixing	supang	hopang	hopaŋ	ha?an	əkɑnbəlɪn	kinsel	ahel	-king pil	gakiiŋ	tiking sasai	-
+231	to die	min	minna	nimino	hinna	mina	mini?	əbɛr	min	mong	"-bora, ipaa"	garammu	gapang	*min(V)
+232	to speak	wultag		wan tutuk	birang	tutuk	matiN	huhʊɪh	busar	tanga	kawaai	tatuku	lomo tutuku	*tutuk(u)
+233	to say		birang	tutuk	asang	tutuktutuk ‘chat’	ama	hʊɪh	lakari	tanga	--	tiila	lomo	
+234	word	traaw		sur	ber	hur ‘language’	"matiN pa?a ''one word', kadada 'chat', mapi kadada 'lets chat' "	busar	lako	tanga	lak	tiila	lomo iko	-
+235	call out	exer	uwara	"taqasi, taqero 'shout at person'"	kor bari	gáreŋ	lowi	"bee, krui, mluk, pak"	eek	ir	iti	kawa	wai mereki	-
+236	to laugh	yəxar	gela	agaro	yali	yaar	asala	əgɑr	yeri	"taˈlal, na-lal ‘I laugh’"	yeei	yara	yer	*yari
+237	to cry	kiid	kiaru	baago	halli	bow	?ahany	wiir	bir	fel	tanei	kiiri	koo	-
+238	to dance	"soxai taxar, wan emelan"	"daala, soi"	suqai 'lego-lego'	sauke	"dári ‘lego-lego’, sarsumba ‘dance’"	"sEbE?E (for women), neikOli: (for men), masay 'lego-lego dance'"	tʊn	towen	tahaijok	pilan	siika	sakalel	-
+239	to sing	daar	pantung	gemeelo	dali	dar hóy	da:la	ilpənɛn	dar	jai wetanga	pilan	dara	dra	*dar
+240	lie (tell untruth)	poon yaxai	akalici	akal	birang yasa	léko	kaluwi	"borbak, nal, tatal, tina aak"	lako sola	"okoli, edo okoli ‘you lie’"	alil wee		lbur	-
+241	ask (question)	gergan	tiyani	takani	tagang	ventániŋ	?atana	"tang, tkein, "	gatangan	tatahang	eisin	saraang	lesebi	-
+242	to count	tag	taya	tego	taggang	rekeŋ	ta?ana (also 'read')	gəlɪk	galeki	halakda 	galek	galiiki	geleki	-
+243	one	nuk	nuku	nuko	"anuku, ye"	nu	nu	nʊk	nuku	nuku	nok	sundaŋ	no	*nuk
+244	two	raq	raku	raxo	alaku	aru	a:lu	ərʊk	oruku	ayoku	ok	yaku	yoku	*araqu
+245	three	yerig	sagu	utug	atiga	tue	towo	toŋ	siwa	suo	su	tuo	tu	-
+246	four	uut	utu	ut	atu	butá	wut	ʊt	usa	buti	biat	araasiiku	arasoku	-
+247	five	yusan	yisin	isin	yasing	yisiŋ	iwEhEN	əwəh	yesan	yeting	iwesing	yootiŋ	weting	*yiwesin
+248	six	tiaam	tiama	tiam	hisnakkung	taliŋ	ta:laN	təlɑn	talama	taˈlama	isingnok	yooyiŋsuno	weting nung	*talam
+249	seven	yesraq	sraqo	yesraxo	betalaku	titu	wuito?	usoŋ	yesoruk	yeting ayoku	isingok	yootiŋyaku	weting yoku	-
+250	eight	yesnerig	stagu	yentug	beatiga	tuaʔaru	turlo?	tɪdərʊk	tad usa	yeti suo	isingsu	yootiŋtuo	weting tu	-
+251	nine	yesno'ut	isi'utu	yeni ut	anuktannang	tornu	ti?inu	tʊkɑinʊk	yesan usa	yeting buti 	isingbiat	yotraasiiku	weting arasoku	-
+252	ten	qar nuk	qa nuk	xar nuko	keanuku	arnu	airnu	kɑrənʊk	karnuku	kar nuku	ataak	adaaku	adayoku	-
+253	eleven	qaar nuk rug nuk		xar nuk beti nuko	keanuku wali ye	ar nu betal nu	airnu waliNu	up kar nuk wa nuk	karnuk wail nuku	kar nuk wal nuku	waal		adayoku weresing no	-
+254	12			xar nuk beti raxo	keanuku wali alaku	ar nu betal aru	airnu waliNalu		karnuk wail arok	kar nuk wal ayoku			adayoku weresing yoku	
+255	13				keanuku wali atiga	ar nu betal tue	airnu waliN towo		karnuk wail siwa	kar nuk wal suo			adayoku weresing tu	
+256	twenty	qar raq	karraku	xar raxo	kealaku	ariaru	airialu	kɑrərok	kararoku	kar ayoku		adaaku-maraku	adayoku miyoku	
+257	21			ratu nuko	kealaku wali ye	ariaru betal nu	airalu waliN nu		kararoku wail nuku	kar ajok wal nuku			adayoku miyoku weresing no	
+258	thirty				keatiga	ar tue	air towo?		karsiwa	kar suo			adayoku mitu	
+259	one hundred	ratu nuk	rat nuku	ratunuko	ratu	ratu nu	ratnu	ɛskɑnʊk	asaga nuku	ajsahanuku		asaka	aska no	
+260	123	ratu nuk kar raq rug yerig	ratu nuku kar quai tagu	ratu xaraq beti utug	ratu kealaku wali atiga	ratu ariaru betal tue	ratnu airalu waliN towo		asaga nuku kararoko wail siwa	ajsaha nuku kar ayoku wal suo			aska no adayoku miyoku weresing tu	
+261	two hundred				ratu alaku	ratu aru	ratalu		asaga aroku	ajsaha ajoku			aska yoku	
+262	thousand	ribu nuk	ribu nuku	ribu nuko	ribu ye	ribu nu	ribnu		rabnuku	rifi nuku			ribu no	
+263	one hundred thousand 		salaka nuku 		sanlak	salák ‘one million’	rib ratnu		ribasaganuku	rifi ajsaha nuku			ribu askano	-
+264	big	waad	ada	waado	ara	le	ma:ti	ɑɑl	batakel	foko	baai	waansa	pidasi	-
+265	small	sam	samma	kiki	kalla	kodduk	ka?ai	kɛkɛin	kadín	kiding	kiding	pike	murung	-
+266	"old, worn"	ana'	tulagi	ugam	kassa	luŋ	?EmE	məlot	(ou) malota	(tofa) makila	farata	makiila	lmang	-
+267	new (house)	wudesin	sava'a	sibo	sabi'a	hiba	habara?	həbɑɑ	(ou) saba	(tofa) tifa	supaka	tipea	tpa	*sabia
+268	old (people)	keri 'old man'	bamma (old man)	boom 'old man'	"madda, wenang 'old man'"	boma ‘old man'	tuma?a	kulwɪn	kakaleta	fingkang	saak	saaku	saku	-
+269	young (people)	boog	bogga	kunang	bogga	"kuar ‘young man’, jauŋ kenewiŋ ‘young woman’"	"awololo 'young man', lawata 'young woman'"	boŋhɛp	"kabol manak, mei manak"	abeti	"fon, lutei"	pulara	seper	-
+270	lazy	gaxduk	qaviyaqa	muut	massa	pəloit	"mara?an (more permanent), lahunu 'lazy' (less permanent, as someone who has already worked, but feels lazy to work more)"	"klem (adj), knoh (noun)"	kalikin	ˈkiliki	mi- -kailan	daalang	dalang	-
+271	hot	og	agga	waar	tawaka	bára	buni?	tut	sanama	ˈlila	beba	emala	tutung	-
+272	cold	qi'aw	maxavu	qaiwo	maba	jevi	ma?ab	məhɪŋ	"kabuk, palata"	palata	faatei	wiri	wir	-
+273	good	qaw	qawa	xowo	akku	auŋ	no?o	nok	noka	kang	kang	kaaŋ	kang	-
+274	bad	yaas	yeci	yaaso	yasa	jasi	"ari?iN, saha 'broken', no?o daN 'not good'"	mʊjɑh	noka nanga	beaka	boko	yaati	boli	*yasi
+275	full	wal	walla	guali	hawaya	meviŋ	wutulu	umii	awei	vemidi	awila	"tutiwo, saaba"	awe	-
+276	empty	hasak		isik	hakkas	osiŋ		ikʊh	marés	taka	saka	siira		*hasak
+277	wet	qalo'	maleca	xolo	hubba	menésa	"har (also 'fall, as a ripe fruit')"	jɛl	rik	joka	parang	pareekaŋ	yeres	-
+278	dry	siis	cici	siso	sisa	táta	ta?ata	təkɑt	takata	takata	auka	aruko	aruk	-
+279	long	tiyan	tenu	lelum	tiana	véniŋ	low	lɑɑŋ	naban	lohu	lapang	lamu	luimukul	-
+280	short	tuk	mo'ong	amayo	tukka	netukaŋ	lama	"uqur, ur, tuk"	gei tuk	bui	maruk	tukuda	tuk bobol	
+281	tall	aluxun	liawang	leso	butang	məlolu	lawen	"lang, odol"	gei naban	lohu	lapang	ayaang	eang	-
+282	short	tuk	tukku	tuko	tukka	tukaŋ	to?oN	ʊʔʊr	tuk	bui	maruk	tukuda	tuk	*tuk
+283	thirsty	nom siis	gama ha cicici (he's thirsty)	taman siso	taume sissang	təmeen tata	dolo ta?ata		eer nemen takat	rehekda 	-mantei		temuing ser	
+284	hungry	nan tiyaq	hilling (he's hungry)	(tang) bili bai	tas massa 	tawan mənápal	malEhiN	"eleng, mdol"	malap	mirai	-maitang	-masin	tamsing	-
+285	dark	qa'an	qaana	saali	patta	kamalu	"paraN 'dark (general) e.g., if the light goes out', di lu?u 'dark (of night)'"	kərɑŋ	mitakuna	akuni	ituta	iduni	wuding	
+286	light	wul	dia	wilo	diala	víla	filiN	blok	aya	sierai	liwang	"dalaang, ilo, madala"	eyakal	-
+287	dirty	blaqas	blaqqas	qaasi	ana	kərítak	karo?o	mʊʊk	maakan	dakung	tini	makaŋ	makang	-
+288	clean	musuay	blela	sibo	lera	mulaŋ	maduluN	"abang 'clean for yard', baak 'clear, of grass', gnai, mhol, nai, "	nalin	sani	bila	ineali	inali	-
+289	sharp	maxan	maxang	magang	maggang	maŋ	hudiN	mɑŋ	mangan	bula	bising	madiiraŋ	plit	-
+290	blunt	pulu	itta	kumai	mukka	kumbul	kumuN	kʊm	toup	toping	bul	paka	pak	-
+291	heavy	suxur	sula	tamaado	sulla	təmádi	tarowi	təkor	sowora	tuhai	suu	tiyerra	tuwur	-
+292	light	wul		leero	diala	jára	filing	iwil	geloga	"falaka, weria ‘midday’"	seila	"ayaakal (light), seelara (very light)"		-
+293	straight	xana'	qunna	molo'	lamura	móloŋ	"abulu? 'straight, true'"	nəmʊt	dob	mulang	sol	"tiimu, loor"	lor	-
+294	wide	təlaag	adda (also large)	waado 	salala	lára	bErEN	ɑɑl	aka	tilesing	sileising	padaakara	pedakar	-
+295	narrow	tabug	sama (also small)	tubugis	tapugi	kərúbo	kapuh	təpʊɪh	tadukun	karia	katina	"iwuto, takaataŋ"	iwuit	-
+296	correct	quun	qunna (also straight)	quuno	mita	etibí		ebeen	adobu	rofi	sol	"kaaŋ, taapi"	lor	-
+297	wrong	gəsay	təmici	gasaying	bekkang	hála	?ahala?		tabela	hasala	taweng	tabiila	tebel	-
+298	ripe	muban	kará	"yira, teno, xaro' 'cooked'"	dala	téna	"tEnE 'ripe, red'"	ətɛn	tain	sani	iten	itiina	lus merek	*ten
+299	rotten	muun	gamini	mino	"baratta, bulla"	misa	boni	mʊin	beik	hamuni	munta	tamasa	sikeng	*mun
+300	bitter	maxa'	miyara	maqo	ku minna	kamála	ma?ala?	mkal	makala	makali	makaa	makal	makal mukup	-
+301	sweet	wub	uba	maraaq	hige	teŋge	"dElEwEN, manEmE? 'tasty'"	"dre, mel"	dalowan	ralong	ilakai	maalang	malang	-
+302	sour			kelikil	lila	kəlíkil		olor	alau	alesing	aleesei	sakar		-
+303	salty	masil			"luar, makara"	kəmála		mkal	masela	alesing	tama makaa	aumo		
+304	flat	hawan	esama	biiro	palaka	bira	haloi	bʊʊr	talola	taluola	silela	"kalata, tarisi"	lat teris	-
+305	smooth	sordax 'slippery'	bifi (slippery)	"ibayaran'smooth', iduyo 'slippery'"	duba	dúla ‘slippery’	dulu?	duul	dula	rula	tulaka		terisi dolok	*dul- 'slippery'
+306	rough	sakar	"aradda (rough, of a person)"	sekakir	katáng-katáng	koŋkarkoŋkar	paluhu		dula nanga	ahoifang	aooba		potor	-
+307	thick	tu'um	ponuuta	pauso	dumma	pusi	tapaha	təpɛh	tapás	tapati	kusa	dumu	dum	-
+308	thin	taxal	seling	teki	re'e	teil	ti?i		bol	foli	manih	manise	minis	-
+309	"sick, painful"	i'	lila	ii	tawaka	dira	modi?	"biir (sick), klik (hurt), mkal"	terík	"ha-rik, na-rik"	mat-	mate	medit	-
+310	"shy, ashamed"	arar	apala	eriyay	pali	"məníyaŋ, tawabilil"	mala?		manian	"ta-milelai, na-milelai"	-laita		neladi ('saya malu')	-
+311	black	qa'an	qana	xano	ana	kána	la?ana?	ɑʔɑkɑn	akana	akani	dakata	akana	akeng	*aqana
+312	white	miyaq	miyaqa	miyeqo	miaka	məjá	wElE?	ɑʔɑjɑl	bela	kuli	bila	siila	muruk	-
+313	red	ii'	i'i	ii	i'a	bibi	tEnE	kɪkik	ika	kik-	bika	ike	iki	-
+314	green	ajogar	weyaga weyaga	oyogi	haluaga	koakoá	leu	wəwɛlɛŋ	kalukul	walangai	waai	walaŋara	walar	-
+315	blue				haluaga	koakoá		wəwɛlɛŋ	aruya	walangai	waai	walaŋara	wolar woding	
+316	yellow	baxari	baxori	bagari	bugga	bóri	ba?oi	bʊbʊgɔr	bagura	adeʔsani	maleta	mareeka	merok	-
+317	blind	get yaas	gata babi	maraa	baddang	"eʔeŋ jasi (lit., ‘bad eyes’), neʔeŋ moró (lit., ‘foggy eyes’)"	ma:ru	gɛnjɑh	gen baka	akuta	bita	bola	nemir ko boli	
+318	deaf	guwar qulus	gola kwanga	qolus	kullu	kəmuke/kmuke	pala?a	gəwɛrkəkʊi	gewel kakuil	"kuri, ha-wei beaka (lit., ‘ears not good’)"	uh	muko	neweri mokol	-
+319	to see	bəli	bili	lalo	ganiaka	teiŋ	dunu?	gəur	guui	"herei, da nerei ‘he sees me’"	-tak	gadea	gedir ('lihat dia')	-
+320	to hear	wuraq	watti	waati	haloapi	veŋ-me	?alEpEN	məgɪh	magí	mahia	-mai	mayiiŋ	lewosi	-
+321	to smell	gaxmin	gamini	gagam	tilli	"mimiŋ ‘smell’, miku ‘kiss’"	?umuniN	gəmoin	gumun	monungra	-musan	gamusa	muing	-
+322	to think	wago wan hom mai	amigraga	tomeyo	timbar	ukur	tanut	kirkir	kira-kira	tomipang	-king suuk	gawaawaŋ	newamal ('saya pikir')	-
+323	to know	wankruwan	kəlala	lalo	kalalang	veŋ-kruaŋ	ahOl	gɛl	magí	"nohiena ‘I know’, ohiena ‘you know’"	lak	gite	leteng	-
+324	dream	ayivar/wanjivar	va	ipar	hippe	yipár	pei	eper	punei	pieila	-foi		wormai	*hipar
+325	lie down	unti'	ta'a	tee	ti'ang	tiaʔ	"mopo, tara"	tɑɑ	"ta, ti mop migadobi"	ta	taa	gate	netai ('saya baring')	*tia
+325	lie down	unti'	ta'a	tee	ti'ang	tiaʔ	"mopo, tara"	tɑɑ	"ta, ti mop migadobi"	ta	taa	gate	netai ('saya baring')	*tia
+326	to sleep	unti'	ta'a	tee	ti'ang	tiaʔ bena	tara	moop	ta	ta	taa	gate	netai ('saya tidur')	
+327	to wake up	tup	sira	taso	natianing	tai	tohO	mətɛh	tir	na-ruda   ‘I get up’	-serang	gasire gamiti	asir amit	
+328	to wake s.o up	gosoy ilan tup	gətani	geteno	gatipping	aiŋ miar	ahowo tuhu	gətɛŋ	gamisi	nan haruda ‘I wake him/her up’	-tan	gapi gasire gamiti	geteing	*-ten
+329	sit	miis	misi	miso	mising	miŋ	mihi?	mɪh	misa	miti	nih	miti	amit	*mis
+330	stand	taas	tasi	taso	natar	tai	tohO	mətɛh	nasan	nate	latsi	dooka	atati (tetati 'kita berdiri')	*tas
+331	squat/crouch	tuku	lualang	toku	lukking	"kuku mudiŋ (lit., ‘knee plant’)"	"li?i?, kukudut"		luk	luk ˈbo	duuh		lukuk	*luk(V)
+332	to walk	"tewar 'to walk', lam 'to follow'"	aya apa	amar	lama	lamar	lami	gɛpunlɑm	lak	"lak, lol"	"loo, maa"	loola	lailol	-
+332	to walk	"tewar 'to walk', lam 'to follow'"	aya apa	amar	lama	lamar	lami	gɛpunlɑm	lak	"lak, lol"	"loo, maa"	loola	lailol	-
+333	run	biir	biri	biiro	biring	bi	tE?EN	təkɪn	taki	furei	tak	gamuri	nemur ('saya lari')	-
+334	swim	taran	talang	taro	tallang	tára	?ur	urɛn	tantai	"teula, na-teula"	sai	se	sai	-
+335	fly	jiran	jila	jiro	hilang	líri	lili?	liir	lir	liʔ	lila	iriŋ	ire	*yira(n)
+336	fall (from above)	ba'	ba'a	ba sero	tasing	ba héra	mudi	mʊŋ	muk sei	"ditahai ‘fall from above’, da-kuila ‘fall’"	mu’tan	taani	taing	-
+337	fall over	taxa'	axoxi	taxa	baulung	"belí, lavák"	olo?	tkos	takoki	da-kuila	kok		podo	-
+338	to drop	ma moxod	mora	gabang	muggung	lolaŋ hera	amudi	nəgɑnukgəmuŋ	gatain sei	na haliéhai	mota	ligataani	gepai taing	-
+339	to bathe	wei	noya (I bathe)	tuweyo	-ulang	véla	wili (voiceless w)	nɛwɛl	weli	 da-wel	-wei	gawile	ira teweli	*weli
+340	to bathe a child	maguwei	goya	guweyo	gaulang	(keniŋ) vela	?ei awili	ulgəwɛl	gaweli	Markus ha-wel ‘wash Markus’	-wei	gawile	olpok ira geweli	
+341	to wash	wanbli	bugi (wash clothes)	wangwa	laming	naʔ bei	la:m	ɪluwɛl	utti	luok	sire	"saku, balasa"	lesi	-
+342	to cook	dau	dawa	na-dowo	tang migang	na doa	dowo?	ɑdɑpu	ar eri	made	taam	maaŋ	mad ira	-
+343	to drink	hufa'	wa'a	yir na	ba'ai	jar na	na?	nɑɑʔ	nai	buk˺  	ne	ganee	ira tenai	*nai
+344	to eat	ina	ina	na	na	na na	adi?	məhɑk	manám	ne	na	"ganee, gapaati, gapama"	tenai tepasi	*nai
+345	chew	krai	karaci	xrayo	gammu	mame	?o?oN	umanain	umu tak	take	se		lemang	-
+346	to suck	pu'	duma	tubo	pu'ung	kənúmu	dutu?	modoih	duup	marek˺	mak	ganee	muduli	-
+347	to blow	puy	puya	gupuyo	"puyang, pussa, pusakai"	upú	apa?u	"ihin, pu"	gamús	muk˺	-subau	"gapulo, liiwuŋ"	usasi	-
+348	to spit	puran	maliplum	purang	tuppung	puruŋ	"may, atamay 'saliva'"	pərʊin	puring	puina	supui	irumpakka (n)	uring kra	*purVn
+349	to vomit	jigar	kala'a	g-igir	kale'e	yída	wudi (voiceless w)	ɪŋ	karí	iu	-iwei		mokor	-
+350	yawn	xaxar	alaw ga'a supi	agur		ayloy	"alowo alawuhu (voiceless /w/ in /alowo/), /?a?an baliN/ 'sigh'"	mɛtɛ́k	agú	ahau	awak		awaki	-
+351	rub	tood	tudu	"todo 'rub, as bathing', osong 'rub, as oil into skin'"	si'ang	osoŋ	luhu? (also 'wipe')	ɔi	ulús	weluuk	luh	"aroosa, puso"	araos	-
+352	scratch	kikar	tua	"krabis, tuu"	"baraggas, karasi"	tuá	tu?u?	kəbɛr	ukuberi	kafi	faki	"suruku, kapari"	kepir	-
+353	itchy	qa:q	qaqa	xaxo	kaka	káka	kaka?	ka:k	rok	jokung	ilukui		iruk	-
+354	swell	wuran	wara	waro	halua	vára	fala?	uwɑr	bati	we-patia	fasi- 	atuŋ	atu	-
+355	wait	warah	graani	garing	walang	ʔadiŋ	?adana	"emei, lel, wrep"	amante	"here, ne-re"	-reide	waaka	"legadar ('tunggu, jaga')"	-
+356	sew	tap	tappa	səroto'	tappang	rótaʔ	naroto?	ilhərot	serót	kapuk˺	kafuh	sorra	"sor ('jahit'), suai ('tusuk')"	-
+357	to fold	gəfilax	poya	bliko	"paukung, lukking"	lepét	pali?i	"gdim, klat, pal"	galúk	haluk˺	tapoo	-kupi	pod awuli	-
+358	to give	gəmiyan	ma-gena	megeng	gania	meʔenaŋ	?EnE?	gɛn	"gei, gana"	"hede, minede ‘give me’"	me –n	garani	wa genir	*-ena
+359	help	gunmola	gomoli	mulag		aiŋ moliŋ	?ukaraN	"her, moi, moil"	gomoni	netulung ‘bantu saya’	"tolon, buh"	tulong	gemosi	-
+360	wipe	aap	api	apo	"lui, yabbi"	hapo	luhu?	mɪlʊr	basan	we-luuk	luh	saara	lipu	-
+361	to come	"ariaya', ma"	"da, ma"	ma	ma	ma	"ma 'to come, lEmma?,  /lami lElE?/ 'come from above'; /lami madaN/ 'come from below'; /fa?/ 'go'; /lami fa?/ 'go' (walk go, more common); /lami midi/ 'go up'"	"ma, ɑd"	"mai, marán"	me	"me, sue"	me	amai	*mai
+362	"burn, shine"	dee	yi'a	dee	war	ade	tub	gopɛ	gei	hiede	saara	"waka, laata"	dali lur	*Vde
+363	shine	liar			diala	bolor	tub	idil	suul	tulung	wobika	"mataani (light), soolang (shine)"	dial lur ?	-
+364	burn (clear land)	maxar dee'	ila dana	orong dee	haddi	bil ede	dil tub		arai	arade	midii		pur tak	
+365	dry in sun	mawudan	wadora	poring	puaring	póriŋ	fEd poi	ʊpur	ber garain	tek	-sak	po:pɒrɔ (not quite dry)	lewidilei	*por
+366	"search, hunt for"	wuraq	lafi	rapo	gallang	rapiŋ	la:p	əlɛl	gorap	tahai	-faafa	laawa	lewena	-
+367	chase away				galu	teri			gapateri	he-tie	fanenee			
+368	"chase away, expel"	gətiar	getiala	getero	"gabuttir, galu"	"teri, sika ‘sound to shoo a dog’, bura ‘sound to shoo a chicken’, sambe ‘sound to shoo a goat’"	arlili	lobei	"gapateri, galur"	"he-tei, ha-loi"	"fanenee, -sorot"	"tiira, diila"	"milakal ('usir'), gapanter ('kejar')"	*tiara
+369	to cut	taxa'	taxana	pətako	lu'ung	"parás ‘cut’, toniŋ ‘slice’"	tafE?E 	gəbok	garoit	ha-wek	batat	"waaka, sumo"	gepesi	-
+370	to cut down	goor	bubu	goro	bailang	hibá	?abo?oi	hban	kob	tukong (tukoong ‘to work’)	bui		koli	-
+371	to split	qas	bəlapa	gaxasi	bakung	kay	adid	hol	keni	kadel	karei	kadali	kedeli	-
+372	to divide	paxai	peci	qanang	daai	hurak	?aba?aN	"gbak, gwai (divide evenly)"	gawali	yeng	kabih	"bakaara, saawang, yoosara"	bakár	-
+373	stab	tap	tappa	qaxo	garung 'to plant'	jawak	"tE?E 'to stab, to plant, to cut'"	tɛk	"tak 'to plant', "	"takda 'to plant', tilok 'to stab'"	tafe	suwe	suai	-
+374	to fight	təfeo	pakki	tabayung	takkang	tóta	"sariN bini (lit., each other fight)"	tɛic	taburin	"taluk, kawai"	taaka	takitaaka	takawai	-
+375	to guard	wanboxon	ta'uli	bukang	baukang	gəréyaŋ	?ubu?uN	"buuk, toot"	golela	"weree, fukong"	pukan		lagadar	*bukan
+376	scared	arar	te'i	rexo	"hundar, pali"	dádi	baruc	edɑn	tamén	mielang	-biee	gamiilaŋ	na-umeng ('saya takut')	-
+377	angry	om kəlexel	"amdidi (angry feeling), karang (angry action)"	temaaring	arugga	tomilil	ari?iN	"cek, cok, eek, mar, tbak"	ganíngin	teeba	-biee	soorang	nesorong ('saya marah')	-
+378	to throw	wantaar	watala	good	kummar	odá	Od	gɔɔd	gor	huor	-tfa	paka	wokor	*-od
+379	to dig	xan	janna	ano	hannang	hanaŋ	aluN	ʊrɪn	téri	teu	tee	tii	tei	-
+380	to bury	traxa'	pamma	traxo	pammung	tərów	?apat	pot	nuk	nabuk	pidak	luuki	areing	-
+381	float	tiri	teri	tering	tera	tediŋ	tEdE?	tətɛd	teebal	tauiti	laka		seli	-
+382	to flow	tootan	karári	toto'	salili	totu	tawoi (voiceless w)	təwɛɛl	tewéli	tavel	tawei	wiikala	wekel	-
+383	to hold	wanpin	pinni	pino'	pinni	pempiná	?apun	gopʊɪn	gapúna	puna	fun	"gawunni 'hold', punni 'to hit'"	"woing 'to hold', poing 'to hit'"	*pVN2
+383	to hold	wanpin	pinni	pino'	pinni	pempiná	?apun	gopʊɪn	gapúna	puna	fun	"gawunni 'hold', punni 'to hit'"	"woing 'to hold', poing 'to hit'"	*pVn
+383	to hold	wanpin	pinni	pino'	pinni	pempiná	?apun	gopʊɪn	gapúna	puna	fun	"gawunni 'hold', punni 'to hit'"	"woing 'to hold', poing 'to hit'"	*pVn
+383	to hold	wanpin	pinni	pino'	pinni	pempiná	?apun	gopʊɪn	gapúna	puna	fun	"gawunni 'hold', punni 'to hit'"	"woing 'to hold', poing 'to hit'"	*pVn
+384	to tie	praat	aafi	pato'	"tiddi, ussing"	"nodaŋ, patar"	?apece?	pɑt	upat	kode	fal	taliŋ	lekoi	-
+385	to play	iga'miar	igamoya	mulay	mudali	mumal	ha?or	kukʊi	namoli	muila	kolkol	galaali	nelali ('saya bermain')	-
+386	to pull	kiri	kiri	ker	biddi	avak	?abi?iN	gəbɪk	gabik	ha-fik	ileh	gamiikaŋ	gemekeng	-
+387	to push	dumar	doba	gətobung	"tumbu, diung"	tobaŋ	ado?o	gruum	gadom	ha-suongra	-sooran	"gabooka, saala"	"gbok, asók, mes"	-
+388	to turn	wanpiar	"wagiya, magiya"	dan		ebáŋ	?dimiN	gəwɑr	ugawali	ha-lik-da	miakii	gawaari	migetenuku	-
+389	choose	wantray	talaci	təraqo	nuta	hay	tara?a	igin	mi'i	ahia	woii	"ilulung, inising, loomang"	ilemel	-
+390	grow	kutan	kuta	yiling	ilang	bilaŋ	abowo?	"bah, bong"	eil	merang	boo	karu	kur	-
+391	squeeze	pruu	məlaci	pəru	"ding, long"	pemek	?amataN	ep	manés	ajak	aleh		"aresi, lumusi"	-
+392	buy	gəmian	ali	walo	uddang	béli	wEl (voiceless w)		eli	bel	baila	ali	ali	
+393	sell	?an		meano	aring	bali		"taan, uilik"	ulik	balik	baila	we		-
+394	steal	taxaw	taxawa	taxawo	haddung	tavi	ta?au	tka	takao	takau	takaawa	takoo	tekau	
+395	to open	xas	cakana	beling	sakking	bakuŋ	duliN	"as, bak, bang, gbir, hkek, raak"	gaki	we-haliel	sui	"laka, pating"	lak	-
+396	to close	sabar		wan-tering	tiaring	ven-teriŋ	watElE	uter	uteri	we-hai	tan	-tiira	leter	*-tiari(n)
+397	climb	mir	sira	"yekeng, sero 'go down'"	karakas	oa hira	midi?	"mde, mid, mod, pkas"	podi	(hong) mira	-pan	"mada, mudaata"	wakar	*mid
+398	hide	iga'	uni	iga	unning	majaŋ	tawuniN	tuquin	teluki	bunua	-bun	"peela, wuni"	awoing	
+399	right	yidan	yeding	teney	yadding	"tataŋ aw (lit., ‘good hand’)"	tne	tənɛ	nokol	teikang	kang	kaaŋ	kang	-
+400	left	dexer	tala'o	waxor	ikki	"tataŋ jasi (lit., ‘bad hand’)"	fi?ing	iik	ikal	teibiki	ela		sorong	-
+401	old woman	quaf	bamala (old woman)	qalam 'old woman'	kuba	meet ‘old woman’	tuma?a	kulwɪn	kakaleta	fingkang	saak	saaku	saku	-

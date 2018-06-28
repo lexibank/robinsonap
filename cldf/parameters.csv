@@ -1,7 +1,7 @@
 ID,Name,Concepticon_ID,Concepticon_Gloss
 coralreef,(coral) reef,660,REEF
 12,12,1707,TWELVE
-123,123,,
+123,123,3164,ONE HUNDRED AND TWENTY THREE
 13,13,1708,THIRTEEN
 21,21,1734,TWENTY ONE
 angry,angry,1826,ANGRY
@@ -49,7 +49,7 @@ canoe,canoe,1970,CANOE
 cassava,cassava,925,CASSAVA
 chaseawayexpel,chase away/expel,30,DISPEL
 chew,chew,321,CHEW
-chewbetel,chew betel,,
+chewbetel,chew betel,3161,CHEW BETEL
 chicken,chicken,1318,CHICKEN
 child,child,2099,CHILD
 chin,chin,1510,CHIN
@@ -76,7 +76,7 @@ dayaftertomorrow,day after tomorrow,1179,DAY AFTER TOMORROW
 daybeforeyesterday,day before yesterday,1180,DAY BEFORE YESTERDAY
 deaf,deaf,996,DEAF
 deer,deer,1936,DEER
-dibblestick,dibble stick,,
+dibblestick,dibble stick,3155,DIBBLE STICK
 diggingstick,digging stick,339,DIGGING STICK
 dirty,dirty,1230,DIRTY
 dog,dog,2009,DOG
@@ -175,7 +175,7 @@ liver,liver,1224,LIVER
 lizard,lizard,632,LIZARD
 long,long,1203,LONG
 lontarpalm,lontar palm,3030,LONTAR PALM
-louseeggs,louse eggs,,
+louseeggs,louse eggs,267,NIT
 louseclothing,louse/clothing,1392,LOUSE
 lungs,lungs,688,LUNG
 machete,machete,2680,MACHETE
@@ -254,7 +254,7 @@ shark,shark,1110,SHARK
 sharp,sharp,1396,SHARP
 shine,shine,708,SHINE
 shoot,shoot,1172,SHOOT
-shootwithslingshot,shoot with slingshot,,
+shootwithslingshot,shoot with slingshot,3180,SHOOT (WITH SLINGSHOT)
 short,short,1645,SHORT
 shoulder,shoulder,1482,SHOULDER
 shyashamed,shy/ashamed,487,SHY
@@ -310,7 +310,7 @@ thunder,thunder,1150,THUNDER
 tinea,tinea,1189,ULCER
 tobark,to bark,1206,BARKING
 tobathe,to bathe,138,BATHE
-tobatheachild,to bathe a child,,
+tobatheachild,to bathe a child,3170,BATHE (SOMEONE)
 toblow,to blow,176,BLOW (WITH MOUTH)
 tobreathe,to breathe,1407,BREATHE
 tobury,to bury,1719,BURY
@@ -362,7 +362,7 @@ tothrow,to throw,1456,THROW
 totie,to tie,1917,TIE
 toturn,to turn,1588,TURN
 tovomit,to vomit,1278,VOMIT
-towakesoup,to wake s.o up,,
+towakesoup,to wake s.o up,3174,WAKE UP (SOMEONE)
 towakeup,to wake up,1602,WAKE UP
 towalk,to walk,1443,WALK
 towash,to wash,1453,WASH

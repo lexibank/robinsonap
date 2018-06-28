@@ -13,7 +13,7 @@ import re
 
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
-    DEST = ['AP_lexicon_coded.txt']
+    DEST = ['AP_lexicon_coded.txt', 'AP_lexicon.txt']
 
     def cmd_install(self, **kw):
         # read data from 'AP_lexicon_coded.txt' and collect it; self.raw has no
@@ -65,6 +65,34 @@ class Dataset(BaseDataset):
                 # next line is not cogids (it is forms)
                 in_form = True
 
+        # Read data from 'AP_lexicon.txt', collecting information for concepts that were
+        # manually excluded by the authors from 'AP_lexicon_coded.txt'
+        rows = self.raw.read_tsv('AP_lexicon.txt')
+        header = True
+        for row in rows:
+            if header:
+                fields = row
+                header = False
+                continue
+
+            # build a dictionary of the forms for the entry
+            entry = {k:{'form':v} for k, v in zip(fields, row)}
+
+            # remove non Alor-Pantar fields (keeping the English one as gloss)
+            entry.pop('Number')
+
+            # fix/normalize the gloss
+            gloss = entry.pop('English')['form']
+            gloss = gloss.replace(',', '/')
+            gloss = gloss.lower().strip()
+
+            # append to vocabulary if missing
+            if gloss not in vocabulary:
+                vocabulary[gloss] = entry
+
+        # remove problematic gloss
+        vocabulary.pop('chase away')
+
         with self.cldf as ds:
             ds.add_sources(self.raw.read('sources.bib'))
 
@@ -79,7 +107,7 @@ class Dataset(BaseDataset):
                     ISO639P3code=lang['ISO']
                     )
                 langmap[lang['NAME']] = slug(lang['GLOTTOLOG_NAME'])
-            
+
             # add concepts to the dataset
             for concept_id in self.conceptlist.concepts:
                 concept = self.conceptlist.concepts[concept_id]
@@ -88,7 +116,7 @@ class Dataset(BaseDataset):
                     Concepticon_ID=concept.concepticon_id,
                     Name=concept.english,
                     Concepticon_Gloss=concept.concepticon_gloss)
-            
+
             # add forms
             for concept in sorted(vocabulary):
                 for lang in vocabulary[concept]:
@@ -138,7 +166,7 @@ class Dataset(BaseDataset):
                             continue
                         if form in ['-', '--']:
                             continue
-                        
+
                         for row in ds.add_lexemes(
                             Local_ID=lang,
                             Language_ID=langmap[lang],
@@ -146,11 +174,12 @@ class Dataset(BaseDataset):
                             Value=form,
                             Source=['Robinson2012'],
                         ):
-                            ds.add_cognate(
-                                lexeme=row,
-                                Cognateset_ID='%s-%s' % (slug(concept), vocabulary[concept][lang]['cogid']),
-                                Source=['Robinson2012'],
-                                Alignment_Source='List2014e')
+                            if 'cogid' in vocabulary[concept][lang]:
+                                ds.add_cognate(
+                                    lexeme=row,
+                                    Cognateset_ID='%s-%s' % (slug(concept), vocabulary[concept][lang]['cogid']),
+                                    Source=['Robinson2012'],
+                                    Alignment_Source='List2014e')
 
             ds.align_cognates()
 
