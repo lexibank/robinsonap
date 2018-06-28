@@ -5,7 +5,6 @@ from __future__ import unicode_literals
 def test_valid(cldf_dataset, cldf_logger):
     assert cldf_dataset.validate(log=cldf_logger)
 
-
 # "From the 400-item list we removed obvious recent introductions (such as
 # 'corn') and known loans from non-Alor-Pantar languages (such as
 # proto-Austro- nesian *takaw 'to steal'). We also removed several items for
@@ -29,13 +28,14 @@ def test_parameters(cldf_dataset, cldf_logger):
     assert len(list(cldf_dataset['ParameterTable'])) == 398
 
     params = {c['Parameter_ID'] for c in cldf_dataset['FormTable']}
-    assert len(params) == 331 - 7
+    assert len(params) == 398
 
 def test_languages(cldf_dataset, cldf_logger):
     assert len(list(cldf_dataset['LanguageTable'])) == 13
 
 def test_cognates(cldf_dataset, cldf_logger):
-    assert len(list(cldf_dataset['CognateTable'])) == 4563
-    
+    # not matching what is described in the paper
+    assert len(list(cldf_dataset['CognateTable'])) == 4086
+
     cogsets = {c['Cognateset_ID'] for c in cldf_dataset['CognateTable']}
-    assert len(cogsets) == 2403
+    assert len(cogsets) == 2377
