@@ -13,6 +13,7 @@ import re
 
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
+    id = 'robinsonap'
     DEST = ['AP_lexicon_coded.txt', 'AP_lexicon.txt']
 
     def cmd_install(self, **kw):
@@ -94,32 +95,13 @@ class Dataset(BaseDataset):
         vocabulary.pop('chase away')
 
         with self.cldf as ds:
-            ds.add_sources(self.raw.read('sources.bib'))
-
-            # add languages to dataset
-            langmap = {}
-            for lang in self.languages:
-                ds.add_language(
-                    ID=slug(lang['GLOTTOLOG_NAME']),
-                    Glottocode=lang['GLOTTOCODE'],
-                    Name=lang['GLOTTOLOG_NAME'],
-                    Glottolog_Name=lang['GLOTTOLOG_NAME'],
-                    ISO639P3code=lang['ISO']
-                    )
-                langmap[lang['NAME']] = slug(lang['GLOTTOLOG_NAME'])
-
-            # add concepts to the dataset
-            for concept_id in self.conceptlist.concepts:
-                concept = self.conceptlist.concepts[concept_id]
-                ds.add_concept(
-                    ID=slug(concept.english),
-                    Concepticon_ID=concept.concepticon_id,
-                    Name=concept.english,
-                    Concepticon_Gloss=concept.concepticon_gloss)
+            ds.add_sources()
+            ds.add_languages()
+            ds.add_concepts(id_factory=lambda c: slug(c.label))
 
             # add forms
             for concept in sorted(vocabulary):
-                for lang in vocabulary[concept]:
+                for lang in sorted(vocabulary[concept]):
                     # replace commas by slashes (so we don't need lots of
                     # escaping and quoting) and correct bad entries;
                     # lexibank `value` is actually `form` in the source
@@ -169,7 +151,7 @@ class Dataset(BaseDataset):
 
                         for row in ds.add_lexemes(
                             Local_ID=lang,
-                            Language_ID=langmap[lang],
+                            Language_ID=lang,
                             Parameter_ID=slug(concept),
                             Value=form,
                             Source=['Robinson2012'],
