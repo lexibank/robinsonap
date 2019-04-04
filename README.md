@@ -21,15 +21,15 @@ Any dataset specific notes on lexibank decisions/mapping choices etc go in here.
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 99%](https://img.shields.io/badge/Concepticon-99%25-brightgreen.svg "Concepticon: 99%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 91%](https://img.shields.io/badge/BIPA-91%25-green.svg "BIPA: 91%")
-![CLTS SoundClass: 91%](https://img.shields.io/badge/CLTS%20SoundClass-91%25-green.svg "CLTS SoundClass: 91%")
+![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
+![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 13
 - **Concepts:** 398
-- **Lexemes:** 4,860
+- **Lexemes:** 4,858
 - **Synonymy:** 1.07
 - **Cognacy:** 4,086 cognates in 2,377 cognate sets
 - **Invalid lexemes:** 0
-- **Tokens:** 25,976
-- **Segments:** 54 (5 BIPA errors, 5 CTLS sound class errors, 49 CLTS modified)
-- **Inventory size (avg):** 27.38
+- **Tokens:** 25,924
+- **Segments:** 49 (0 BIPA errors, 0 CTLS sound class errors, 49 CLTS modified)
+- **Inventory size (avg):** 27.00

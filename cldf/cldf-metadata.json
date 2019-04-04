@@ -18,15 +18,15 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v3.4",
-                "concepticon_version": "pyconcepticon-1.4.0-178-g0882156"
+                "glottolog_version": "pyglottolog-1.2.1-135-gce9d923",
+                "concepticon_version": "pyconcepticon-1.4.0-112-g903cf66"
             }
         }
     ],
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 4860,
+            "dc:extent": 4858,
             "tableSchema": {
                 "columns": [
                     {
