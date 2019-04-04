@@ -93,6 +93,7 @@ class Dataset(BaseDataset):
 
         # remove problematic gloss
         vocabulary.pop('chase away')
+        csid_map = {'_': 0}
 
         with self.cldf as ds:
             ds.add_sources()
@@ -157,9 +158,12 @@ class Dataset(BaseDataset):
                             Source=['Robinson2012'],
                         ):
                             if 'cogid' in vocabulary[concept][lang]:
+                                csid = '%s-%s' % (slug(concept), vocabulary[concept][lang]['cogid'])
+                                if csid not in csid_map:
+                                    csid_map[csid] = max(csid_map.values()) + 1
                                 ds.add_cognate(
                                     lexeme=row,
-                                    Cognateset_ID='%s-%s' % (slug(concept), vocabulary[concept][lang]['cogid']),
+                                    Cognateset_ID=csid_map[csid],
                                     Source=['Robinson2012'],
                                     Alignment_Source='List2014e')
 
