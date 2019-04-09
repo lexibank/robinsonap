@@ -13,9 +13,7 @@ Conceptlists in Concepticon:
 
 Any dataset specific notes on lexibank decisions/mapping choices etc go in here.
 
-
 ## Statistics
-
 
 [![Build Status](https://travis-ci.org/lexibank/robinsonap.svg?branch=master)](https://travis-ci.org/lexibank/robinsonap)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
@@ -28,8 +26,10 @@ Any dataset specific notes on lexibank decisions/mapping choices etc go in here.
 - **Concepts:** 398
 - **Lexemes:** 4,858
 - **Synonymy:** 1.07
-- **Cognacy:** 4,086 cognates in 2,377 cognate sets
+- **Cognacy:** 4,086 cognates in 2,377 cognate sets (1,732 singletons)
+- **Cognate Diversity:** 0.44
 - **Invalid lexemes:** 0
 - **Tokens:** 25,924
 - **Segments:** 49 (0 BIPA errors, 0 CTLS sound class errors, 49 CLTS modified)
 - **Inventory size (avg):** 27.00
+
