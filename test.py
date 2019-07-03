@@ -1,9 +1,6 @@
-# coding: utf-8
-from __future__ import unicode_literals
-
-
 def test_valid(cldf_dataset, cldf_logger):
     assert cldf_dataset.validate(log=cldf_logger)
+
 
 # "From the 400-item list we removed obvious recent introductions (such as
 # 'corn') and known loans from non-Alor-Pantar languages (such as
@@ -20,22 +17,25 @@ def test_valid(cldf_dataset, cldf_logger):
 # belonging to the same cognate class as the pAP recon- struction. Tis process
 # resulted in a 13 × 351 matrix (13 × 351 = 4,563 character states)."
 
-def test_parameters(cldf_dataset, cldf_logger):
+
+def test_parameters(cldf_dataset):
     # Should be 331 words in the downloadable datafile but the conception
     # wordlist has 398 because the authors removed words from the dataset for
     # various reasons (see above). AND we have 7 duplicate words, so the count
     # reduces further
-    assert len(list(cldf_dataset['ParameterTable'])) == 398
+    assert len(list(cldf_dataset["ParameterTable"])) == 398
 
-    params = {c['Parameter_ID'] for c in cldf_dataset['FormTable']}
+    params = {c["Parameter_ID"] for c in cldf_dataset["FormTable"]}
     assert len(params) == 398
 
-def test_languages(cldf_dataset, cldf_logger):
-    assert len(list(cldf_dataset['LanguageTable'])) == 13
 
-def test_cognates(cldf_dataset, cldf_logger):
+def test_languages(cldf_dataset):
+    assert len(list(cldf_dataset["LanguageTable"])) == 13
+
+
+def test_cognates(cldf_dataset):
     # not matching what is described in the paper
-    assert len(list(cldf_dataset['CognateTable'])) == 4086
+    assert len(list(cldf_dataset["CognateTable"])) == 4086
 
-    cogsets = {c['Cognateset_ID'] for c in cldf_dataset['CognateTable']}
+    cogsets = {c["Cognateset_ID"] for c in cldf_dataset["CognateTable"]}
     assert len(cogsets) == 2377
