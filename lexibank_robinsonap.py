@@ -164,7 +164,6 @@ class Dataset(BaseDataset):
                                     Alignment_Source="List2014e",
                                 )
 
-            ds.align_cognates()
 
     def cmd_download(self, **kw):
         if not self.raw.exists():
