@@ -1,67 +1,67 @@
-Grapheme	UNICODE	IPA	FREQUENCY
-*	U+002a	NULL	
--	U+002d	NULL	
-'	U+0027	ʔ 	
-ˈ	U+02c8	ʔ	
-a	U+0061	a	5478
-b	U+0062	b	924
-f	U+0066	f	254
-i	U+0069	i	2750
-k	U+006b	k	1510
-l	U+006c	l	1634
-m	U+006d	m	1129
-n	U+006e	n	1934
-o	U+006f	o	1687
-p	U+0070	p	637
-s	U+0073	s	976
-u	U+0075	u	1891
-v	U+0076	v	108
-ŋ	U+014b	ŋ	180
-ǝ	U+01dd	ǝ	3
-ɑ	U+0251	ɑ	81
-ɒ	U+0252	ɒ	1
-ɔ	U+0254	ɔ	15
-ə	U+0259	ə	209
-ɛ	U+025b	ɛ	91
-ε	U+03b5	ɛ
-ɣ	U+0263	ɣ	3
-ɪ	U+026a	ɪ	43
-ʊ	U+028a	ʊ	58
-ʔ	U+0294	ʔ	39
-q	U+0071	q	
-e	U+0065	e	
-x	U+0078	ħ	
-y	U+0079	j	
-ng	U+006e U+0067	ŋ	
-c	U+0063	tʃ	
-j	U+006a	dʒ	
-r	U+0072	r	
-d	U+0064	d	
-t	U+0074	t	
-g	U+0067	g	
-w	U+0077	w	
-h	U+0068	h	
-a:	U+0061 U+003a	aː	
-i:	U+0069 U+003a	iː	
-o:	U+006f U+003a	oː	
-u:	U+0075 U+003a	uː	
-eː	U+0065 U+02d0	eː	
-aˑ	U+0061 U+02d1	aˑ	
-á	U+00e1	a	
-é	U+00e9	e	
-í	U+00ed	i	
-ɛ́	U+025b U+0301	ɛ	
-ó	U+00f3	o	
-ú	U+00fa	u	
-ẽ	U+0065 U+0303	ẽ	
-õ	U+006f U+0303	õ	
-V		V/ǝ	
-O		O/ɔ	
-I		I/ɪ	
-˺		NULL	
-–		NULL	
-µ		µ/u	
-M		m
-?		ʔ
-E		ɛ
-N		ŋ
+Grapheme	IPA
+*	NULL
+-	NULL
+'	ʔ 
+ˈ	ʔ
+a	a
+b	b
+f	f
+i	i
+k	k
+l	l
+m	m
+n	n
+o	o
+p	p
+s	s
+u	u
+v	v
+ŋ	ŋ
+ǝ	ǝ
+ɑ	ɑ
+ɒ	ɒ
+ɔ	ɔ
+ə	ə
+ɛ	ɛ
+ε	ɛ
+ɣ	ɣ
+ɪ	ɪ
+ʊ	ʊ
+ʔ	ʔ
+q	q
+e	e
+x	ħ
+y	j
+ng	ŋ
+c	tʃ
+j	dʒ
+r	r
+d	d
+t	t
+g	g
+w	w
+h	h
+a:	aː
+i:	iː
+o:	oː
+u:	uː
+eː	eː
+aˑ	aˑ
+á	a
+é	e
+í	i
+ɛ́	ɛ
+ó	o
+ú	u
+ẽ	ẽ
+õ	õ
+V	V/ǝ
+O	O/ɔ
+I	I/ɪ
+˺	NULL
+–	NULL
+µ	µ/u
+M	m
+?	ʔ
+E	ɛ
+N	ŋ
