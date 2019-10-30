@@ -1,14 +1,14 @@
-ID,Glottocode,Name,ISO639P3code
-Tw,teiw1235,Teiwa,twe
-Ab,abui1241,Abui,abz
-pAP,alor1249,Alor-Pantar,
-Bl,blag1240,Blagar,beu
-Km,kama1365,Kamang,woi
-We,wers1238,Wersing,kvw
-Ke,kaer1234,Kaera,jka
-WP,lamm1241,Western Pantar,lev
-Ki,kuii1254,Kui,kvd
-Ad,adan1251,Adang,adn
-Sw,sawi1256,Sawila,swt
-Nd,nede1245,Nedebang,nec
-Kl,kelo1247,Klon,kyo
+ID,Token,Glottocode,Name,ISO639P3code
+teiwa,Tw,teiw1235,Teiwa,twe
+abui,Ab,abui1241,Abui,abz
+protoalorpantar,pAP,alor1249,Alor-Pantar,
+blagar,Bl,blag1240,Blagar,beu
+kamang,Km,kama1365,Kamang,woi
+wersing,We,wers1238,Wersing,kvw
+kaera,Ke,kaer1234,Kaera,jka
+westernpantar,WP,lamm1241,Western Pantar,lev
+kui,Ki,kuii1254,Kui,kvd
+adang,Ad,adan1251,Adang,adn
+sawila,Sw,sawi1256,Sawila,swt
+nedebang,Nd,nede1245,Nedebang,nec
+klon,Kl,kelo1247,Klon,kyo

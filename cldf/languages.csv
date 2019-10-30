@@ -1,14 +1,14 @@
-ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family
-Tw,Teiwa,teiw1235,,twe,,,,
-Ab,Abui,abui1241,,abz,,,,
-pAP,Alor-Pantar,alor1249,,,,,,
-Bl,Blagar,blag1240,,beu,,,,
-Km,Kamang,kama1365,,woi,,,,
-We,Wersing,wers1238,,kvw,,,,
-Ke,Kaera,kaer1234,,jka,,,,
-WP,Western Pantar,lamm1241,,lev,,,,
-Ki,Kui,kuii1254,,kvd,,,,
-Ad,Adang,adan1251,,adn,,,,
-Sw,Sawila,sawi1256,,swt,,,,
-Nd,Nedebang,nede1245,,nec,,,,
-Kl,Klon,kelo1247,,kyo,,,,
+ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Token
+teiwa,Teiwa,teiw1235,,twe,,,,,Tw
+abui,Abui,abui1241,,abz,,,,,Ab
+protoalorpantar,Alor-Pantar,alor1249,,,,,,,pAP
+blagar,Blagar,blag1240,,beu,,,,,Bl
+kamang,Kamang,kama1365,,woi,,,,,Km
+wersing,Wersing,wers1238,,kvw,,,,,We
+kaera,Kaera,kaer1234,,jka,,,,,Ke
+westernpantar,Western Pantar,lamm1241,,lev,,,,,WP
+kui,Kui,kuii1254,,kvd,,,,,Ki
+adang,Adang,adan1251,,adn,,,,,Ad
+sawila,Sawila,sawi1256,,swt,,,,,Sw
+nedebang,Nedebang,nede1245,,nec,,,,,Nd
+klon,Klon,kelo1247,,kyo,,,,,Kl
