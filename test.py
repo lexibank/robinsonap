@@ -35,15 +35,23 @@ def test_languages(cldf_dataset):
 
 
 def test_forms(cldf_dataset):
-    # check that overrides in lexeme.csv are taken into account
+    # Because the parsing is quite complicated, let's check some specific forms were 
+    # parsed correctly
+    
+    # 1. check that overrides in lexeme.csv are taken into account:
     f = [
         f for f in cldf_dataset["FormTable"] if f["Form"] == 'alumanεmε'
     ]
-
     assert len(f) == 1
     assert f[0]["Parameter_ID"] == "56_civetcat"
     assert f[0]["Language_ID"] == "adang"
     assert f[0]["Form"] == "alumanεmε"
+
+    # 2. check simple combined form parsing:
+    f = [
+        f for f in cldf_dataset["FormTable"] if f['Value'] == 'loo, maa'
+    ]
+    assert sorted([f[0]["Form"], f[1]["Form"]]) == ['loo', 'maa']
 
 
 def test_cognates(cldf_dataset):

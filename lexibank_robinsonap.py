@@ -1,4 +1,3 @@
-import re
 from pathlib import Path
 
 import attr
@@ -7,9 +6,6 @@ from clldutils.misc import slug
 from pylexibank import Dataset as BaseDataset
 from pylexibank import Language as BaseLanguage
 from pylexibank import FormSpec
-
-
-gloss_quotes = re.compile(r"'.*?'", re.UNICODE)
 
 
 @attr.s
@@ -24,7 +20,7 @@ class Dataset(BaseDataset):
     language_class = Language
 
     form_spec = FormSpec(
-        brackets={"[": "]", "{": "}", "(": ")"},
+        brackets={"[": "]", "{": "}", "(": ")", "‘": "’"},
         separators=";/,",
         missing_data=('?', '-', '', ''),
         strip_inside_brackets=True
@@ -42,14 +38,15 @@ class Dataset(BaseDataset):
             lookup_factory="Name"
         )
 
-        # read data from AP_lexicon_coded.txt
         seen = []
         for f in ("AP_lexicon_coded.txt", "AP_lexicon.txt"):
             for row in self.raw_dir.read_csv(f, dicts=True, delimiter="\t"):
                 concept = row['English'].lower().strip().replace(", ", "/")
                 # skip rows in AP_lexicon.txt that we've already seen
                 # in AP_lexicon_coded.txt
-                if f == 'AP_lexicon.txt' and concept in seen:
+                # Note that there are duplicate rows in across both files, and *within*
+                # the same files, so this handles that too.
+                if concept in seen:
                     continue
 
                 # manually catch "chase away". There are two glosses for this:
@@ -66,22 +63,11 @@ class Dataset(BaseDataset):
 
                     for lang in languages:
                         assert concept in concepts, 'bad concept %s' % concept
-
+                        value = row[lang]
+                        
                         # preprocess value
-                        value = row[lang].replace("‘", "'").replace("’", "'")
                         # remove the reconstruction mark (for proto-AP)
                         value = value.lstrip("*")
-                        # strip glosses (between single quotes); 
-                        # strip_brackets() can't be used here because in 
-                        # case of unclosed brackets it strips away all the 
-                        # contents until the end of the string, which makes 
-                        # sense for parentheses and the like but can't be used 
-                        # here, as the single quote can be a glottal stop and 
-                        # as a word can (potentially) have more than one 
-                        # glottal stop (and this would strip all the sounds in 
-                        # the middle)
-                        if value.endswith("'"):
-                            value = gloss_quotes.sub("", value)
 
                         # remove leading & trailing spaces
                         value = value.strip().lstrip()
