@@ -21,17 +21,17 @@ Any dataset specific notes on lexibank decisions/mapping choices etc go in here.
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 99%](https://img.shields.io/badge/Concepticon-99%25-green.svg "Concepticon: 99%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 91%](https://img.shields.io/badge/BIPA-91%25-green.svg "BIPA: 91%")
-![CLTS SoundClass: 91%](https://img.shields.io/badge/CLTS%20SoundClass-91%25-green.svg "CLTS SoundClass: 91%")
+![BIPA: 98%](https://img.shields.io/badge/BIPA-98%25-green.svg "BIPA: 98%")
+![CLTS SoundClass: 98%](https://img.shields.io/badge/CLTS%20SoundClass-98%25-green.svg "CLTS SoundClass: 98%")
 
 - **Varieties:** 13
 - **Concepts:** 398
-- **Lexemes:** 5,000
+- **Lexemes:** 4,850
 - **Sources:** 1
-- **Synonymy:** 1.09
-- **Cognacy:** 3,902 cognates in 2,372 cognate sets (1,836 singletons)
-- **Cognate Diversity:** 0.43
+- **Synonymy:** 1.06
+- **Cognacy:** 3,902 cognates in 2,371 cognate sets (1,835 singletons)
+- **Cognate Diversity:** 0.44
 - **Invalid lexemes:** 0
-- **Tokens:** 28,530
-- **Segments:** 54 (5 BIPA errors, 5 CTLS sound class errors, 49 CLTS modified)
-- **Inventory size (avg):** 29.08
+- **Tokens:** 25,845
+- **Segments:** 50 (1 BIPA errors, 1 CTLS sound class errors, 49 CLTS modified)
+- **Inventory size (avg):** 27.38

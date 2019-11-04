@@ -12,7 +12,7 @@ idna==2.8
 isodate==0.6.0
 jdcal==1.4.1
 -e git+https://github.com/lexibank/bantubvd@c0dfcf3264a4d58d08c0885310730ec39bffa703#egg=lexibank_bantubvd
--e git+https://github.com/lexibank/robinsonap@f8dee80f60cca916476575377b711050145313e8#egg=lexibank_robinsonap
+-e git+https://github.com/lexibank/robinsonap@a43dd758113c585d8266e2cb4ef3cabe0f88dd81#egg=lexibank_robinsonap
 -e git+https://github.com/lexibank/transnewguineaorg@4c96f3c536e2b16cf34a1e04f657baeb94c0a212#egg=lexibank_transnewguineaorg
 -e git+https://github.com/lexibank/tryonsolomon@8d0f9d35a7671e8ba0448598c71a2ec69f985358#egg=lexibank_tryonsolomon
 -e git+https://github.com/lexibank/zgraggenmadang@8705e0bfcf4a73b7f11c5fcd07ab4b333d7f8d91#egg=lexibank_zgraggenmadang

@@ -1,6 +1,6 @@
 LEXEME,REPLACEMENT,COMMENT
 "paraN 'dark (general) e.g./ if the light goes out'/ di lu?u 'dark (of night)'","paraN / di lu?u",
-"dilElE  lit. 'all day'; /wEd saha/ 'midday' lit. 'hot sun'","dilElE ; wEd saha",
+"dilElE  lit. 'all day'; /wEd saha/ 'midday' lit. 'hot sun'","dilElE",
 lεʔiliŋ 'small red ant/ iliwei 'large black ant' ,lεʔiliŋ, iliwei,lang: Ad concept: [ant]
 mudu' 'body hair/ fur/ feather',mudu',lang: Ke concept: [body hair]
 alumanεmε (lit/ 'good smelling deer'),alumanεmε,lang: Ad concept: [civet cat]
@@ -27,7 +27,7 @@ de'e 'roof'/ u-va 'to roof',de'e, u'va,lang: Ad concept: [thatch]
 taʔana (also 'read'),taʔana,lang: Ad concept: [to count]
 tukong (tukoong ‘to work’),tukong,lang: Ab concept: [to cut down]
 teŋ meaŋ mina (lit./ ‘person hit die’),teŋ meaŋ mina,lang: Bl concept: [to kill]
-mudiŋ 'plant smth. like a tree that takes many years to grow ,mudiŋ,lang: Ad concept: [to plant 1]
+mudiŋ 'plant smth. like a tree that takes many years to grow,mudiŋ,lang: Ad concept: [to plant 1]
 tapa 'to pound,tapa,lang: Bl concept: [to plant 2]
 baŋ ʔεme (lit./ 'old house'),baŋ ʔεme,lang: Ad concept: [village]
 har (also 'fall/ as a ripe fruit'),har,lang: Ad concept: [wet]
@@ -44,3 +44,90 @@ nan haruda ‘I wake him/her up’,nan haruda,concept: [to wake s.o up]
 "hea ‘his/her mother’/ nia ‘my mother’",hea/nia,concept: [mother]
 "hoa (my mother)/ goa (his/her mother)",hoa/goa,concept: [mother]
 "abang 'clean for yard'/ baak 'clear/ of grass'/ gnai/ mhol/ nai/ ",abang / baak / gnai / mho / nai,concept: [clear]
+"ir patta  (lit 'dark')",ir patta
+"lapooŋ 'wind', tamuro 'heavy wind'",lapooŋ,Additional Concept
+"iid, por 'island'",iid,Additional Concept
+"tul ('karang darat'), agál ('karang laut')",tul / agál
+"tamá' kula'",tamá' kula'
+"kop ('hutan'), awotan ('rimba')",kop / awotan
+"hawan bi'in 'flat place'",hawan bi'in
+"butu 'garden used several times', dil 'garden used only once', maʔad 'work in garden'",butu / dil
+"baliŋboʔoboi, baliŋ 'metal shovel'",baliŋboʔoboi
+"dopoŋ 'walking stick'",dopoŋ
+"aburig, ata:pa 'fire an arrow'",aburig
+"hεʔεwui, ʔa 'wood'",hεʔεwui / ʔa
+"aad wasing 'firewood'",aad wasing
+"awai, wai 'to flame'",awai
+"ma abu  (ma 'tanah halus')",ma abu
+"deek, bala' 'sleeping place'",deek
+"(yaf) waai, (yaf) qul 'ridgepole'",waai'
+"de'e 'roof', u-va 'to roof'",de'e
+"mIn men, uva 'to roof'",mIn men
+"tapei 'to pound'",tapei
+"*tapai 'pierce'",tapai
+"tap 'to pound'",tap
+"tappang 'to stab'",tappang
+"tapai 'to stab'",tapai
+"ta:pang 'to pound'",ta:pang
+"tappa 'plant, pound rice, stab'",tappa
+"ai qoli, tox 'palm wine'",ai qoli
+"ʔεʔui, nou 'palm sugar, used for tuak and brooms'",ʔεʔui
+"nakaahu, traakahu 'peanut'",nakaahu
+"ke'e, dama'a",ke'e / dama'a
+"mudu' 'body hair, fur, feather'",mudu
+"teet gwaq, teet mudu' 'eyelash'",teet gwaq
+"kai 'cough'",kai
+"nekaw 'same sex sibling'",nekaw
+"nikkar (man's bro), ni'e (women's bro)",nikkar / ni'e
+"noʔudiŋ ʔobo 'sister'",noʔudiŋ ʔobo
+"nekaku (kaku 'bungsu')",nekaku
+"nedik 'opposite sex sibling'",nedik
+"noʔudiŋ loti 'brother'",noʔudiŋ loti
+"gur ('laki-laki'), mará ('perempuan')",gur / mará
+"lεʔiliŋ 'small red ant, iliwei 'large black ant'",lεʔiliŋ / iliwei
+"tumu ('berkelahi'), arak ta ('tumbuk padi')",tumu / arak ta
+"matiŋ paʔa ''one word', kadada 'chat', mapi kadada 'lets chat'",matiŋ paʔa / kadada
+"taqasi, taqero 'shout at person'",taqasi / taqero
+"suqai 'lego-lego'",suqai
+"sεbεʔε (for women), neikOli: (for men), masay 'lego-lego dance'",sεbεʔε / neikOli
+"keri 'old man'",keri
+"boom 'old man'",boom
+"madda, wenang 'old man'",madda / wenang
+"qalam 'old woman'",qalam
+"awololo 'young man', lawata 'young woman'",awololo / lawata
+"maraʔan (more permanent), lahunu 'lazy' (less permanent, as someone who has already worked, but feels lazy to work more)",maraʔan / lahunu
+"ariʔiŋ, saha 'broken', noʔo daŋ 'not good'",ariʔiŋ / saha
+"abang 'clean for yard', baak 'clear, of grass', gnai, mhol, nai,",abang / baak / gnai / mhol / nai
+"abuluʔ 'straight, true'",abuluʔ
+"yira, teno, xaro' 'cooked'",yira / teno / xaro
+"tεnε 'ripe, red'",tεnε
+"dεlεwεŋ, manεmεʔ 'tasty'",dεlεwεŋ / manεmεʔ
+"sordax 'slippery'",sordax
+"*dul- 'slippery'",*dul-
+"ibayaran'smooth', iduyo 'slippery'",ibayaran / iduyo
+"tewar 'to walk', lam 'to follow'",tewar
+"may, atamay 'saliva'",may / atamay
+"alowo alawuhu (voiceless /w/ in /alowo/), /ʔaʔan baliŋ/ 'sigh'",alowo alawuhu / ʔaʔan baliŋ
+"todo 'rub, as bathing', osong 'rub, as oil into skin'",todo / osong
+"milakal ('usir'), gapanter ('kejar')",milakal / gapanter
+"takda 'to plant', tilok 'to stab'",takda / tilok
+"garung 'to plant'",garung
+"tak 'to plant',",tak
+"tεʔε 'to stab, to plant, to cut'",tεʔε
+"woing 'to hold', poing 'to hit'",woing
+"gawunni 'hold', punni 'to hit'",gawunni
+"yekeng, sero 'go down'",yekeng
+"lowo tawe?EN 'fog just before the rain'",lowo taweʔ
+"?il 'comb for men (made of bamboo)'",?il
+"fa?ai tEnE 'red clay', fa?ai fiu 'pink clay'",fa?ai tEnE / fa?ai fiu
+"iru 'bee'",iru
+"wain 'bee'",wain
+"bilel 'young animal'",bilel
+"ba'a 'young animal', lappang 'old animal'",ba'a / lappang
+"keek 'male animal'",keek
+"bai xaf (lit., 'big fish')",bai xaf
+"muddi (also 'body hair')",muddi
+"paraN 'dark (general) e.g., if the light goes out', di lu?u 'dark (of night)'",paraN
+"netai ('saya tidur')",netai
+"sor ('jahit'), suai ('tusuk')",sor / suai
+"ma 'to come, lEmma?,  /lami lElE?/ 'come from above'; /lami madaN/ 'come from below'; /fa?/ 'go'; /lami fa?/ 'go' (walk go, more common); /lami midi/ 'go up'",ma
