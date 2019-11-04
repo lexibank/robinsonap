@@ -37,14 +37,15 @@ class Dataset(BaseDataset):
             id_factory=lambda c: c.id.split('-')[-1]+ '_' + slug(c.english),
             lookup_factory="Name"
         )
-        b = 0  # REMOVE
-        # read data from AP_lexicon_coded.txt
+
         seen = []
         for f in ("AP_lexicon_coded.txt", "AP_lexicon.txt"):
             for row in self.raw_dir.read_csv(f, dicts=True, delimiter="\t"):
                 concept = row['English'].lower().strip().replace(", ", "/")
                 # skip rows in AP_lexicon.txt that we've already seen
                 # in AP_lexicon_coded.txt
+                # Note that there are duplicate rows in across both files, and *within*
+                # the same files, so this handles that too.
                 if concept in seen:
                     continue
 
