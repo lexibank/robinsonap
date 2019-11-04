@@ -48,7 +48,6 @@
 | ǝ | 3 | ✓ | ✓ |
 | ɣ | 3 | ✓ | ✓ |
 | I/ɪ | 2 | ✓ | ✓ |
-| <<2>> | 1 | ? | ? |
 | aˑ | 1 | ✓ | ✓ |
 | eː | 1 | ✓ | ✓ |
 | µ/u | 1 | ✓ | ✓ |
@@ -56,7 +55,7 @@
 | ɒ | 1 | ✓ | ✓ |
 | ẽ | 1 | ✓ | ✓ |
 
-(50 rows)
+(49 rows)
 
 
 
@@ -72,9 +71,8 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:-----------------------------|:----------------|:-----------|:-------|:-----------------------|
-| protoalorpantar-337_tohold-1 | protoalorpantar | 337_tohold | pVN2 | p V/ǝ ŋ <s> <<2>> </s> |
+||
 
-(1 rows)
+(0 rows)
 
 
