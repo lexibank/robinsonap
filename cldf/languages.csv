@@ -1,14 +1,14 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Token
-teiwa,Teiwa,teiw1235,,twe,,,,,Tw
-abui,Abui,abui1241,,abz,,,,,Ab
-protoalorpantar,Alor-Pantar,alor1249,,,,,,,pAP
-blagar,Blagar,blag1240,,beu,,,,,Bl
-kamang,Kamang,kama1365,,woi,,,,,Km
-wersing,Wersing,wers1238,,kvw,,,,,We
-kaera,Kaera,kaer1234,,jka,,,,,Ke
-westernpantar,Western Pantar,lamm1241,,lev,,,,,WP
-kui,Kui,kuii1254,,kvd,,,,,Ki
-adang,Adang,adan1251,,adn,,,,,Ad
-sawila,Sawila,sawi1256,,swt,,,,,Sw
-nedebang,Nedebang,nede1245,,nec,,,,,Nd
-klon,Klon,kelo1247,,kyo,,,,,Kl
+teiwa,Teiwa,teiw1235,Teiwa,twe,Papunesia,-8.37662,124.174,Timor-Alor-Pantar,Tw
+abui,Abui,abui1241,Abui,abz,Papunesia,-8.31058,124.588,Timor-Alor-Pantar,Ab
+protoalorpantar,Alor-Pantar,alor1249,Alor-Pantar,,,,,Timor-Alor-Pantar,pAP
+blagar,Blagar,blag1240,Blagar,beu,Papunesia,-8.31787,124.251,Timor-Alor-Pantar,Bl
+kamang,Kamang,kama1365,Kamang,woi,Papunesia,-8.26897,124.792,Timor-Alor-Pantar,Km
+wersing,Wersing,wers1238,Wersing,kvw,Papunesia,-8.33936,124.932,Timor-Alor-Pantar,We
+kaera,Kaera,kaer1234,Kaera,jka,Papunesia,,,Timor-Alor-Pantar,Ke
+westernpantar,Western Pantar,lamm1241,Western Pantar,lev,Papunesia,-8.52787,124.057,Timor-Alor-Pantar,WP
+kui,Kui,kuii1254,Kui,kvd,Papunesia,,,Timor-Alor-Pantar,Ki
+adang,Adang,adan1251,Adang,adn,Papunesia,-8.18958,124.448,Timor-Alor-Pantar,Ad
+sawila,Sawila,sawi1256,Sawila,swt,Papunesia,-8.29105,125.078,Timor-Alor-Pantar,Sw
+nedebang,Nedebang,nede1245,Klamu,nec,Papunesia,-8.28776,124.192,Timor-Alor-Pantar,Nd
+klon,Klon,kelo1247,Klon,kyo,Papunesia,-8.40688,124.429,Timor-Alor-Pantar,Kl
