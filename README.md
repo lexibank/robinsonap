@@ -26,7 +26,7 @@ Any dataset specific notes on lexibank decisions/mapping choices etc go in here.
 
 - **Varieties:** 13
 - **Concepts:** 398
-- **Lexemes:** 4,850
+- **Lexemes:** 4,841
 - **Sources:** 1
 - **Synonymy:** 1.06
 - **Cognacy:** 3,902 cognates in 2,371 cognate sets (1,835 singletons)
