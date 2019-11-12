@@ -17,7 +17,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/robinsonap",
-            "dc:created": "v2.0.1-12-g7785f0f"
+            "dc:created": "v2.0.1-13-ge229c15"
         },
         {
             "rdf:type": "prov:Entity",
@@ -56,7 +56,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 4850,
+            "dc:extent": 4841,
             "tableSchema": {
                 "columns": [
                     {

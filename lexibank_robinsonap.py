@@ -21,7 +21,7 @@ class Dataset(BaseDataset):
     form_spec = FormSpec(
         brackets={"[": "]", "{": "}", "(": ")", "‘": "’"},
         separators=";/,",
-        missing_data=("?", "-", "", ""),
+        missing_data=("?", "-", "--"),
         strip_inside_brackets=True,
     )
 
