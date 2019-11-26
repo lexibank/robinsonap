@@ -11,11 +11,6 @@ decorator==4.4.1
 idna==2.8
 isodate==0.6.0
 jdcal==1.4.1
--e git+https://github.com/lexibank/bantubvd@c0dfcf3264a4d58d08c0885310730ec39bffa703#egg=lexibank_bantubvd
--e git+https://github.com/lexibank/robinsonap@f19ec34b1f32ba2d194a45d4258989894ecff332#egg=lexibank_robinsonap
--e git+https://github.com/lexibank/transnewguineaorg@4c96f3c536e2b16cf34a1e04f657baeb94c0a212#egg=lexibank_transnewguineaorg
--e git+https://github.com/lexibank/tryonsolomon@8d0f9d35a7671e8ba0448598c71a2ec69f985358#egg=lexibank_tryonsolomon
--e git+https://github.com/lexibank/zgraggenmadang@8705e0bfcf4a73b7f11c5fcd07ab4b333d7f8d91#egg=lexibank_zgraggenmadang
 lingpy==2.6.5
 Markdown==3.1.1
 networkx==2.1
@@ -31,13 +26,11 @@ pycldf==1.8.2
 pyclts==2.0.0
 pyconcepticon==2.3.0
 pycountry==19.8.18
-pyglottolog==2.2.1
--e git+https://github.com/lexibank/pylexibank@9d3001127a62fc063845f02a5afafd43a5be7234#egg=pylexibank
 pytest==5.2.2
 regex==2019.8.19
 requests==2.22.0
 rfc3986==1.3.2
-segments==2.1.0
+segments==2.1.3
 six==1.12.0
 SQLAlchemy==1.3.10
 tabulate==0.8.5

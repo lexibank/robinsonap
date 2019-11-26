@@ -12,6 +12,8 @@ from pylexibank import FormSpec
 class Language(BaseLanguage):
     # the tokens used as language identifiers by Robinson and Holton
     Token = attr.ib(default=None)
+    Latitude = attr.ib(default=None)
+    Longitude = attr.ib(default=None)
 
 
 class Dataset(BaseDataset):
