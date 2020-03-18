@@ -44,7 +44,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 43_burnshine,burn/shine,2102,BURN
 44_butterfly,butterfly,1791,BUTTERFLY
 45_buy,buy,1869,BUY
-46_callout,call out,1084,CALL
+46_callout,call out,,
 47_canoe,canoe,1970,CANOE
 48_cassava,cassava,925,CASSAVA
 49_chaseawayexpel,chase away/expel,30,DISPEL
@@ -225,7 +225,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 224_riceplant,rice plant,2026,RICE PLANT
 225_ridge,ridge,1748,RIDGE
 226_right,right,1019,RIGHT
-227_ringworm,ringworm,51,SORE
+227_ringworm,ringworm,3171,RINGWORM
 228_ripe,ripe,178,RIPE
 229_river,river,666,RIVER
 230_roadpath,road/path,2457,PATH OR ROAD
@@ -338,7 +338,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 337_tohold,to hold,1448,HOLD
 338_tohunt,to hunt,1435,HUNT
 339_tokill,to kill,1417,KILL
-340_toknow,to know,1410,KNOW (SOMETHING)
+340_toknow,to know,3626,KNOW
 341_tolaugh,to laugh,1355,LAUGH
 342_tolive,to live,1422,BE ALIVE
 343_toopen,to open,1156,OPEN
