@@ -13,6 +13,7 @@ isodate==0.6.0
 jdcal==1.4.1
 lingpy==2.6.6
 Markdown==3.2.1
+nameparser==1.0.6
 networkx==2.2
 newick==1.0.0
 numpy==1.18.1
@@ -27,7 +28,7 @@ pyclts==2.0.0
 pyconcepticon==2.6.0
 pycountry==19.8.18
 pyglottolog==3.0.0
--e git+https://github.com/lexibank/pylexibank@674cdd0de1083cbffdea331fd90b66064d1d42de#egg=pylexibank
+pylexibank==2.6.0
 pytest==5.3.5
 regex==2020.2.20
 requests==2.23.0

@@ -11,14 +11,14 @@
     "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "Internal Classification of the Alor-Pantar Language Family",
+    "dc:title": "CLDF dataset derived from Robinson and Holton's \"Internal Classification of the Alor-Pantar Language Family\" from 2012",
     "dcat:accessURL": "https://github.com/lexibank/robinsonap",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/robinsonap",
-            "dc:created": "v3.0-3-g0dc4378"
+            "dc:created": "v3.0-8-g1247ca5"
         },
         {
             "rdf:type": "prov:Entity",
@@ -118,6 +118,14 @@
                     {
                         "datatype": "boolean",
                         "name": "Loan"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Graphemes"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Profile"
                     }
                 ],
                 "foreignKeys": [

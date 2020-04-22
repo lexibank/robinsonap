@@ -1,4 +1,4 @@
-# Internal Classification of the Alor-Pantar Language Family
+# CLDF dataset derived from Robinson and Holton's "Internal Classification of the Alor-Pantar Language Family" from 2012
 
 Cite the source dataset as
 
@@ -40,8 +40,10 @@ Any dataset specific notes on lexibank decisions/mapping choices etc go in here.
 
 # Contributors
 
-Name | GitHub user | Role
---- | --- | ---
-Tiago Tresoldi | @tresoldi | maintainer
+Name | GitHub user | Description | Role
+--- | --- | --- | ---
+Robinson, Laura C. | | data collector | Author
+Holton, Gary | | data collector | Author
+Tiago Tresoldi | @tresoldi | maintainer | Author
 
 
