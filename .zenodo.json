@@ -11,12 +11,14 @@
         },
         {
             "name": "Holton, Gary"
-        },
-        {
-            "name": "Tiago Tresoldi"
         }
     ],
-    "contributors": [],
+    "contributors": [
+        {
+            "name": "Christoph Rzymski",
+            "type": "Other"
+        }
+    ],
     "communities": [
         {
             "identifier": "lexibank"
@@ -25,6 +27,6 @@
     "upload_type": "dataset",
     "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Robinson, Laura C. and Holton, Gary (2012): Internal Classification of the Alor-Pantar Language Family Using Computational Methods Applied to the Lexicon. Language Dynamics and Change 2.2. 123-149.</p>\n</blockquote>",
     "license": {
-        "id": "CC-BY-NC-4.0"
+        "id": "CC-BY-4.0"
     }
 }

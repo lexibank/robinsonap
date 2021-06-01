@@ -4,7 +4,7 @@ Cite the source dataset as
 
 > Robinson, Laura C. and Holton, Gary (2012): Internal Classification of the Alor-Pantar Language Family Using Computational Methods Applied to the Lexicon. Language Dynamics and Change 2.2. 123-149.
 
-This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
+This dataset is licensed under a CC-BY-4.0 license
 
 Available online at  https://doi.org/10.1163/22105832-20120201
 
@@ -19,7 +19,7 @@ Any dataset specific notes on lexibank decisions/mapping choices etc go in here.
 ## Statistics
 
 
-[![Build Status](https://travis-ci.org/lexibank/robinsonap.svg?branch=master)](https://travis-ci.org/lexibank/robinsonap)
+[![CLDF validation](https://github.com/lexibank/robinsonap/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/robinsonap/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 98%](https://img.shields.io/badge/Concepticon-98%25-green.svg "Concepticon: 98%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
@@ -44,6 +44,6 @@ Name | GitHub user | Description | Role
 --- | --- | --- | ---
 Robinson, Laura C. | | data collector | Author
 Holton, Gary | | data collector | Author
-Tiago Tresoldi | @tresoldi | maintainer | Author
+Christoph Rzymski | @chrzyki | maintainer, patron | Other
 
 
