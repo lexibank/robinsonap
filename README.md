@@ -1,8 +1,16 @@
 # CLDF dataset derived from Robinson and Holton's "Internal Classification of the Alor-Pantar Language Family" from 2012
 
-Cite the source dataset as
+[![CLDF validation](https://github.com/lexibank/robinsonap/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/robinsonap/actions?query=workflow%3ACLDF-validation)
 
-> Robinson, Laura C. and Holton, Gary (2012): Internal Classification of the Alor-Pantar Language Family Using Computational Methods Applied to the Lexicon. Language Dynamics and Change 2.2. 123-149.
+## How to cite
+
+If you use these data please cite
+- the original source
+  > Robinson, Laura C. and Holton, Gary (2012): Internal Classification of the Alor-Pantar Language Family Using Computational Methods Applied to the Lexicon. Language Dynamics and Change 2.2. 123-149.
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
 
 This dataset is licensed under a CC-BY-4.0 license
 
@@ -47,3 +55,10 @@ Holton, Gary | | data collector | Author
 Christoph Rzymski | @chrzyki | maintainer, patron | Other
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)

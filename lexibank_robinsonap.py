@@ -1,24 +1,22 @@
 from pathlib import Path
 
 import attr
+import pylexibank
 from clldutils.misc import slug
-from pylexibank import Dataset as BaseDataset
-from pylexibank import Language as BaseLanguage
-from pylexibank import FormSpec
 
 
 @attr.s
-class CustomLanguage(BaseLanguage):
+class CustomLanguage(pylexibank.Language):
     # the tokens used as language identifiers by Robinson and Holton
     Token = attr.ib(default=None)
 
 
-class Dataset(BaseDataset):
+class Dataset(pylexibank.Dataset):
     dir = Path(__file__).parent
     id = "robinsonap"
     language_class = CustomLanguage
 
-    form_spec = FormSpec(
+    form_spec = pylexibank.FormSpec(
         brackets={"[": "]", "{": "}", "(": ")", "‘": "’"},
         separators=";/,",
         missing_data=("?", "-", "--"),

@@ -15,34 +15,38 @@
     "dcat:accessURL": "https://github.com/lexibank/robinsonap",
     "prov:wasDerivedFrom": [
         {
-            "rdf:type": "prov:Entity",
-            "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/robinsonap",
-            "dc:created": "v3.0-13-gafc50e4"
+            "rdf:type": "prov:Entity",
+            "dc:created": "v3.0-16-g5f5b9db",
+            "dc:title": "Repository"
         },
         {
-            "rdf:type": "prov:Entity",
-            "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.3-treedb-fixes"
+            "rdf:type": "prov:Entity",
+            "dc:created": "v4.4",
+            "dc:title": "Glottolog"
         },
         {
-            "rdf:type": "prov:Entity",
-            "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.4.0-196-g5980b5d"
+            "rdf:type": "prov:Entity",
+            "dc:created": "v2.5.0",
+            "dc:title": "Concepticon"
         },
         {
-            "rdf:type": "prov:Entity",
-            "dc:title": "CLTS",
             "rdf:about": "https://github.com/cldf-clts/clts",
-            "dc:created": "v2.1.0"
+            "rdf:type": "prov:Entity",
+            "dc:created": "v2.1.0",
+            "dc:title": "CLTS"
         }
     ],
     "prov:wasGeneratedBy": [
         {
+            "dc:title": "lingpy-rcParams",
+            "dc:relation": "lingpy-rcParams.json"
+        },
+        {
             "dc:title": "python",
-            "dc:description": "3.8.5"
+            "dc:description": "3.8.10"
         },
         {
             "dc:title": "python-packages",
@@ -57,6 +61,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
+            "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
             "dc:extent": 4841,
             "tableSchema": {
                 "columns": [
@@ -196,8 +201,8 @@
                     {
                         "datatype": {
                             "base": "decimal",
-                            "minimum": -90,
-                            "maximum": 90
+                            "minimum": "-90",
+                            "maximum": "90"
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#latitude",
                         "required": false,
@@ -206,8 +211,8 @@
                     {
                         "datatype": {
                             "base": "decimal",
-                            "minimum": -180,
-                            "maximum": 180
+                            "minimum": "-180",
+                            "maximum": "180"
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#longitude",
                         "required": false,
