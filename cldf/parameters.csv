@@ -44,7 +44,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 43_burnshine,burn/shine,2102,BURN
 44_butterfly,butterfly,1791,BUTTERFLY
 45_buy,buy,1869,BUY
-46_callout,call out,,
+46_callout,call out,715,SHOUT
 47_canoe,canoe,1970,CANOE
 48_cassava,cassava,925,CASSAVA
 49_chaseawayexpel,chase away/expel,30,DISPEL
@@ -209,7 +209,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 208_oldersibling,older sibling,405,OLDER SIBLING
 209_one,one,1493,ONE
 210_onehundred,one hundred,1634,HUNDRED
-211_onehundredthousand,one hundred thousand,,
+211_onehundredthousand,one hundred thousand,3532,ONE HUNDRED THOUSAND
 212_oven,oven,1143,OVEN
 213_papaya,papaya,2445,PAPAYA
 214_penis,penis,1222,PENIS
@@ -240,7 +240,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 239_salt,salt,1274,SALT
 240_salty,salty,1091,SALTY
 241_sand,sand,671,SAND
-242_scabies,scabies,2664,SCAB
+242_scabies,scabies,3172,SCABIES
 243_scared,scared,3033,SCARED
 244_scorpion,scorpion,1538,SCORPION
 245_scratch,scratch,1436,SCRATCH
@@ -307,7 +307,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 306_thousand,thousand,1843,THOUSAND
 307_three,three,492,THREE
 308_thunder,thunder,1150,THUNDER
-309_tinea,tinea,1189,ULCER
+309_tinea,tinea,3173,TINEA
 310_tobark,to bark,1206,BARKING
 311_tobathe,to bathe,138,BATHE
 312_tobatheachild,to bathe a child,3170,BATHE (SOMEONE)
