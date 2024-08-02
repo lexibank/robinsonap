@@ -29,13 +29,13 @@ Any dataset specific notes on lexibank decisions/mapping choices etc go in here.
 
 [![CLDF validation](https://github.com/lexibank/robinsonap/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/robinsonap/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 98%](https://img.shields.io/badge/Concepticon-98%25-green.svg "Concepticon: 98%")
+![Concepticon: 99%](https://img.shields.io/badge/Concepticon-99%25-green.svg "Concepticon: 99%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 13
-- **Concepts:** 398
+- **Varieties:** 13 (linked to 13 different Glottocodes)
+- **Concepts:** 398 (linked to 392 different Concepticon concept sets)
 - **Lexemes:** 4,841
 - **Sources:** 1
 - **Synonymy:** 1.06
@@ -43,7 +43,7 @@ Any dataset specific notes on lexibank decisions/mapping choices etc go in here.
 - **Cognate Diversity:** 0.44
 - **Invalid lexemes:** 0
 - **Tokens:** 25,844
-- **Segments:** 49 (0 BIPA errors, 0 CTLS sound class errors, 49 CLTS modified)
+- **Segments:** 49 (0 BIPA errors, 0 CLTS sound class errors, 49 CLTS modified)
 - **Inventory size (avg):** 27.31
 
 # Contributors
@@ -52,7 +52,9 @@ Name | GitHub user | Description | Role
 --- | --- | --- | ---
 Robinson, Laura C. | | data collector | Author
 Holton, Gary | | data collector | Author
-Christoph Rzymski | @chrzyki | maintainer, patron | Other
+Christoph Rzymski | @chrzyki | maintainer, patron | Editor
+Johann-Mattis List | @LinguList | maintainer, profile | Editor
+
 
 
 
